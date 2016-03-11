@@ -1,0 +1,1177 @@
+,lon,lat,date,manner_of_death,age,gender,city,state,mental_illness,threat_level,Armed,Race,State
+1,-97.330053,37.6871761,1/3/2015,shot and Tasered,23,M,Wichita,kansas,FALSE,other,Unarmed,Hispanic,kansas
+2,-91.1128901,40.8076529,1/6/2015,shot,34,F,Burlington,iowa,FALSE,other,Unarmed,White,iowa
+3,-92.3566861,33.1073435,1/8/2015,shot,36,M,Strong,arkansas,FALSE,attack,Unarmed,Black,arkansas
+4,-101.7937669,33.1667601,1/26/2015,shot,24,M,Tahoka,texas,FALSE,other,Unarmed,Hispanic,texas
+5,-97.0583681,36.1156071,1/29/2015,shot,42,M,Stillwater,oklahoma,FALSE,other,Unarmed,White,oklahoma
+6,-76.7083033,40.2653681,2/2/2015,shot,59,M,Hummelstown,pennsylvania,FALSE,other,Unarmed,White,pennsylvania
+7,-84.2807329,30.4382559,2/4/2015,shot,28,M,Tallahassee,florida,FALSE,attack,Unarmed,Black,florida
+8,-111.9400054,33.4255104,2/4/2015,shot,28,M,Tempe,arizona,FALSE,other,Unarmed,Hispanic,arizona
+9,-119.1005657,46.2395793,2/10/2015,shot and Tasered,35,M,Pasco,washington,TRUE,other,Unarmed,Hispanic,washington
+10,-75.9268747,40.3356483,2/13/2015,shot,35,M,Reading,pennsylvania,FALSE,other,Unarmed,Hispanic,pennsylvania
+11,-80.2456045,25.9420377,2/15/2015,shot and Tasered,25,M,Miami Gardens,florida,TRUE,other,Unarmed,Black,florida
+12,-93.2922989,37.2089572,2/17/2015,shot,31,M,Springfield,missouri,FALSE,other,Unarmed,White,missouri
+13,-97.0819541,32.8370727,2/20/2015,shot,31,M,Euless,texas,FALSE,other,Unarmed,Hispanic,texas
+14,-95.9979883,41.2523634,2/23/2015,shot and Tasered,39,M,Omaha,nebraska,FALSE,other,Unarmed,White,nebraska
+15,-87.4139092,39.4667034,2/26/2015,shot and Tasered,31,M,Terre Haute,indiana,FALSE,other,Unarmed,White,indiana
+16,-89.0928155,30.3674198,2/26/2015,shot,49,M,Gulfport,mississippi,FALSE,other,Unarmed,White,mississippi
+17,-117.8678338,33.7455731,2/27/2015,shot,27,M,Santa Ana,california,FALSE,undetermined,Unarmed,Hispanic,california
+18,-84.8776392,42.729993,2/28/2015,shot and Tasered,17,M,Roxand Township,michigan,FALSE,attack,Unarmed,White,michigan
+19,-90.1994042,38.6270025,2/28/2015,shot,34,M,St Louis,missouri,FALSE,other,Unarmed,Black,missouri
+20,-118.2436849,34.0522342,3/1/2015,shot and Tasered,43,M,Los Angeles,california,TRUE,attack,Unarmed,Black,california
+21,-81.2636738,28.9005446,3/4/2015,shot,26,M,Deltona,florida,FALSE,other,Unarmed,White,florida
+22,-118.3089661,34.1808392,3/5/2015,shot,36,M,Burbank,california,FALSE,other,Unarmed,Hispanic,california
+23,-104.8319195,39.7294319,3/6/2015,shot,37,M,Aurora,colorado,FALSE,undetermined,Unarmed,Black,colorado
+24,-89.4012302,43.0730517,3/6/2015,shot,19,M,Madison,wisconsin,FALSE,attack,Unarmed,Black,wisconsin
+25,-84.3879824,33.7489954,3/9/2015,shot,27,M,Atlanta,georgia,TRUE,other,Unarmed,Black,georgia
+26,-77.0368707,38.9071923,3/12/2015,shot,35,M,Washington,district of columbia,TRUE,other,Unarmed,Black,district of columbia
+27,-122.0651819,37.9100783,3/13/2015,shot,32,M,Walnut Creek,california,FALSE,other,Unarmed,Hispanic,california
+28,-121.4943996,38.5815719,3/17/2015,shot,22,M,Sacramento,california,FALSE,undetermined,Unarmed,Hispanic,california
+29,-122.2648752,49.0001217,3/19/2015,shot,20,M,Sumas,washington,TRUE,attack,Unarmed,White,washington
+30,-81.6943605,41.49932,3/19/2015,shot,18,M,Cleveland,ohio,FALSE,attack,Unarmed,Black,ohio
+31,-95.992775,36.1539816,4/2/2015,shot,44,M,Tulsa,oklahoma,FALSE,other,Unarmed,Black,oklahoma
+32,-79.9748103,32.8546197,4/4/2015,shot and Tasered,50,M,North Charleston,south carolina,FALSE,other,Unarmed,Black,south carolina
+33,-95.3698028,29.7604267,4/15/2015,shot,41,M,Houston,texas,FALSE,other,Unarmed,Black,texas
+34,-76.2982742,36.8354258,4/22/2015,shot,18,M,Portsmouth,virginia,FALSE,undetermined,Unarmed,Black,virginia
+35,-118.1937395,33.7700504,4/23/2015,shot,19,M,Long Beach,california,FALSE,other,Unarmed,Hispanic,california
+36,-74.0059413,40.7127837,4/25/2015,shot,24,M,New York,new york,TRUE,attack,Unarmed,Black,new york
+37,-94.7608801,35.6826766,4/26/2015,shot,29,M,Bunch,oklahoma,FALSE,attack,Unarmed,White,oklahoma
+38,-118.4694832,33.9850469,5/5/2015,shot,29,M,Venice,california,FALSE,attack,Unarmed,Black,california
+39,-77.1067698,38.8799697,5/19/2015,shot,54,M,Arlington,virginia,FALSE,attack,Unarmed,Hispanic,virginia
+40,-112.0098791,34.7391876,5/30/2015,shot,19,M,Cottonwood,arizona,FALSE,attack,Unarmed,White,arizona
+41,-106.7333599,34.806166,6/3/2015,shot and Tasered,36,M,Los Lunas,new mexico,FALSE,attack,Unarmed,Hispanic,new mexico
+42,-83.6499321,41.04422,6/9/2015,shot,30,M,Findlay,ohio,FALSE,attack,Unarmed,White,ohio
+43,-93.6091064,41.6005448,6/9/2015,shot,28,M,Des Moines,iowa,FALSE,other,Unarmed,White,iowa
+44,-119.9771868,38.939926,6/15/2015,shot,22,M,South Lake Tahoe,california,FALSE,other,Unarmed,Black,california
+45,-117.9075627,34.1336186,6/21/2015,shot,24,M,Azusa,california,TRUE,other,Unarmed,Hispanic,california
+46,-86.158068,39.768403,6/23/2015,shot,34,M,Indianapolis,indiana,FALSE,other,Unarmed,White,indiana
+47,-76.7802528,39.4195499,6/25/2015,shot,41,M,Owings Mills,maryland,TRUE,other,Unarmed,Black,maryland
+48,-81.655651,30.3321838,7/2/2015,shot,23,M,Jacksonville,florida,FALSE,attack,Unarmed,Black,florida
+49,-121.8746789,37.6624312,7/5/2015,shot,19,M,Pleasanton,california,FALSE,attack,Unarmed,White,california
+50,-118.0728424,33.8314045,7/5/2015,shot,43,M,Hawaiian Gardens,california,FALSE,other,Unarmed,White,california
+51,-80.2331036,26.1275862,7/12/2015,shot and Tasered,36,M,Plantation,florida,FALSE,attack,Unarmed,Black,florida
+52,-81.3792365,28.5383355,7/17/2015,shot and Tasered,23,M,Orlando,florida,FALSE,attack,Unarmed,Black,florida
+53,-90.0489801,35.1495343,7/17/2015,shot,19,M,Memphis,tennessee,FALSE,attack,Unarmed,Black,tennessee
+54,-84.5091102,39.1214868,7/19/2015,shot,43,M,Mt. Auburn,ohio,FALSE,other,Unarmed,Black,ohio
+55,-84.7452138,34.2828722,7/21/2015,shot,47,M,White,georgia,FALSE,other,Unarmed,White,georgia
+56,-93.4555093,45.0105194,7/23/2015,shot and Tasered,31,M,Plymouth,minnesota,TRUE,attack,Unarmed,White,minnesota
+57,-97.1080656,32.735687,8/7/2015,shot,19,M,Arlington,texas,FALSE,other,Unarmed,Black,texas
+58,-76.8894171,38.8576128,8/14/2015,shot,30,M,District Heights,maryland,TRUE,attack,Unarmed,Black,maryland
+59,-85.4735707,38.7142263,8/15/2015,shot and Tasered,43,M,Hanover,indiana,FALSE,attack,Unarmed,White,indiana
+60,-121.8863286,37.3382082,8/17/2015,shot,40,M,San Jose,california,FALSE,other,Unarmed,Hispanic,california
+61,-87.5691735,33.2098407,8/20/2015,shot and Tasered,50,M,Tuscaloosa,alabama,TRUE,attack,Unarmed,White,alabama
+62,-73.8370786,40.9125992,8/28/2015,shot,61,M,Mount Vernon,new york,FALSE,other,Unarmed,Black,new york
+63,-87.6297982,41.8781136,8/29/2015,shot,29,M,Chicago,illinois,FALSE,undetermined,Unarmed,Hispanic,illinois
+64,-75.977985,36.8529263,9/5/2015,shot,28,F,Virginia Beach,virginia,FALSE,undetermined,Unarmed,Black,virginia
+65,-117.0172826,34.8957957,9/14/2015,shot,28,M,Barstow,california,TRUE,attack,Unarmed,White,california
+66,-95.555513,33.6609389,9/21/2015,shot and Tasered,21,M,Paris,texas,FALSE,attack,Unarmed,White,texas
+67,-76.8294213,39.4695489,9/23/2015,shot,19,M,Reisterstown,maryland,FALSE,other,Unarmed,Black,maryland
+68,-81.5190053,41.0814447,9/25/2015,shot,21,M,Akron,ohio,FALSE,undetermined,Unarmed,White,ohio
+69,-80.1917902,25.7616798,9/28/2015,shot and Tasered,31,M,Miami,florida,FALSE,attack,Unarmed,Black,florida
+70,-93.2938352,45.8769031,9/29/2015,shot,37,M,Mora,minnesota,FALSE,attack,Unarmed,White,minnesota
+71,-101.8312969,35.2219971,10/2/2015,shot,29,M,Amarillo,texas,FALSE,undetermined,Unarmed,White,texas
+72,-117.9436749,34.0452883,10/16/2015,shot,27,M,Valinda,california,FALSE,attack,Unarmed,Hispanic,california
+73,-119.4201204,36.3510616,10/21/2015,shot,21,M,West Goshen,california,TRUE,attack,Unarmed,Hispanic,california
+74,-117.2466838,32.70003,10/28/2015,shot,29,M,Point Loma,california,FALSE,attack,Unarmed,Black,california
+75,-85.3782795,32.6454116,10/31/2015,shot,56,M,Opelika,alabama,FALSE,other,Unarmed,Black,alabama
+76,-92.0662356,31.1279652,11/3/2015,shot,6,M,Marksville,louisiana,FALSE,other,Unarmed,White,louisiana
+77,-117.2355851,32.8024577,11/4/2015,shot,47,M,Pacific Beach,california,FALSE,other,Unarmed,White,california
+78,-93.2650108,44.977753,11/15/2015,shot,24,M,Minneapolis,minnesota,FALSE,undetermined,Unarmed,Black,minnesota
+79,-84.7249188,31.4398976,11/17/2015,shot,58,M,Arlington,georgia,FALSE,other,Unarmed,White,georgia
+80,-117.0172826,34.8957957,11/20/2015,shot,29,M,Barstow,california,TRUE,attack,Unarmed,Black,california
+81,-96.5024916,33.8531568,11/21/2015,shot,24,M,Colbert,oklahoma,FALSE,attack,Unarmed,White,oklahoma
+82,-121.8374777,39.7284944,11/26/2015,shot,26,M,Chico,california,FALSE,other,Unarmed,White,california
+83,-73.8987469,40.9312099,12/8/2015,shot,36,M,Yonkers,new york,FALSE,other,Unarmed,Black,new york
+84,-110.926479,32.2217429,12/11/2015,shot,36,M,Tucson,arizona,FALSE,attack,Unarmed,White,arizona
+85,-91.8992837,30.2735323,12/21/2015,shot,NA,M,Breaux Bridge,louisiana,TRUE,other,Unarmed,Black,louisiana
+86,-83.1763145,42.3222599,12/23/2015,shot,35,M,Dearborn,michigan,TRUE,other,Unarmed,Black,michigan
+87,-87.6297982,41.8781136,12/26/2015,shot,55,F,Chicago,illinois,FALSE,other,Unarmed,Black,illinois
+88,-115.1398296,36.1699412,12/31/2015,shot,23,M,Las Vegas,nevada,FALSE,other,Unarmed,Black,nevada
+89,-79.6614376,40.3840734,1/11/2016,shot,12,F,Penn Township,pennsylvania,FALSE,other,Unarmed,White,pennsylvania
+90,-116.9625269,32.7947731,1/16/2016,shot,25,F,El Cajon,california,FALSE,other,Unarmed,White,california
+91,-111.8314724,33.4151843,1/17/2016,shot,26,M,Mesa,arizona,FALSE,attack,Unarmed,White,arizona
+92,-98.4936282,29.4241219,2/4/2016,shot,36,M,San Antonio,texas,FALSE,other,Unarmed,Black,texas
+93,-97.7430608,30.267153,2/8/2016,shot,17,M,Austin,texas,FALSE,other,Unarmed,Black,texas
+94,-117.9145036,33.8352932,2/9/2016,shot,22,M,Anaheim,california,FALSE,undetermined,Unarmed,Hispanic,california
+95,-94.4554782,32.2429366,2/13/2016,shot,24,M,Beckville,texas,FALSE,undetermined,Unarmed,Black,texas
+96,-118.3531311,33.9616801,2/21/2016,shot,32,M,Inglewood,california,FALSE,other,Unarmed,Black,california
+97,-122.8670454,45.4942838,1/2/2015,shot,47,M,Aloha,oregon,FALSE,attack,Armed/Undetermined,White,oregon
+98,-122.4194155,37.7749295,1/4/2015,shot,32,M,San Francisco,california,TRUE,attack,Armed/Undetermined,White,california
+99,-104.6921874,40.3763701,1/4/2015,shot,39,M,Evans,colorado,FALSE,attack,Armed/Undetermined,Hispanic,colorado
+100,-97.4253185,35.878937,1/4/2015,shot,18,M,Guthrie,oklahoma,FALSE,attack,Armed/Undetermined,White,oklahoma
+101,-111.8412502,33.3061605,1/5/2015,shot,22,M,Chandler,arizona,FALSE,attack,Armed/Undetermined,Hispanic,arizona
+102,-97.6044806,38.6802826,1/6/2015,shot,35,M,Assaria,kansas,FALSE,attack,Armed/Undetermined,White,kansas
+103,-77.4388719,41.9572933,1/6/2015,shot,47,M,Knoxville,pennsylvania,FALSE,attack,Armed/Undetermined,Black,pennsylvania
+104,-121.2907796,37.9577016,1/6/2015,shot and Tasered,25,M,Stockton,california,FALSE,attack,Armed/Undetermined,White,california
+105,-95.3596617,28.9541368,1/7/2015,shot,31,M,Freeport,texas,FALSE,attack,Armed/Undetermined,Black,texas
+106,-82.9987942,39.9611755,1/7/2015,shot,41,M,Columbus,ohio,TRUE,other,Armed/Undetermined,Black,ohio
+107,-93.6091064,41.6005448,1/7/2015,shot,30,M,Des Moines,iowa,FALSE,attack,Armed/Undetermined,White,iowa
+108,-90.0715323,29.9510658,1/7/2015,shot,37,M,New Orleans,louisiana,FALSE,attack,Armed/Undetermined,Black,louisiana
+109,-108.3015173,45.899401,1/8/2015,shot,28,M,Huntley,montana,FALSE,undetermined,Armed/Undetermined,White,montana
+110,-111.8910474,40.7607793,1/8/2015,shot,42,M,Salt Lake City,utah,FALSE,attack,Armed/Undetermined,White,utah
+111,-112.0646657,41.0893878,1/8/2015,shot,49,M,Syracuse,utah,FALSE,attack,Armed/Undetermined,White,utah
+112,-91.9690284,34.5442609,1/9/2015,shot,71,M,England,arkansas,FALSE,attack,Armed/Undetermined,White,arkansas
+113,-106.4850217,31.7618778,1/9/2015,shot,33,M,El Paso,texas,FALSE,attack,Armed/Undetermined,Hispanic,texas
+114,-88.3064367,39.684755,1/11/2015,shot,39,M,Arcola,illinois,TRUE,attack,Armed/Undetermined,White,illinois
+115,-118.2120161,33.954737,1/11/2015,shot,23,M,South Gate,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+116,-115.1175013,36.1988592,1/11/2015,shot and Tasered,29,M,North Las Vegas,nevada,FALSE,attack,Armed/Undetermined,Hispanic,nevada
+117,-106.6055534,35.0853336,1/13/2015,shot,34,M,Albuquerque,new mexico,FALSE,attack,Armed/Undetermined,White,new mexico
+118,-98.5464068,28.9180294,1/13/2015,shot,43,M,Jourdanton,texas,TRUE,other,Armed/Undetermined,White,texas
+119,-93.0899578,44.9537029,1/14/2015,shot,24,M,St. Paul,minnesota,FALSE,attack,Armed/Undetermined,Black,minnesota
+120,-91.135302,38.3953601,1/14/2015,shot,29,M,Franklin County,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+121,-76.2874927,36.7682088,1/14/2015,shot,34,M,Chesapeake,virginia,TRUE,attack,Armed/Undetermined,Black,virginia
+122,-74.307282,40.4128551,1/14/2015,shot,75,M,Old Bridge,new jersey,FALSE,attack,Armed/Undetermined,White,new jersey
+123,-95.4343859,29.0338575,1/14/2015,shot,68,M,Lake Jackson,texas,FALSE,attack,Armed/Undetermined,White,texas
+124,-111.8638226,40.5246711,1/14/2015,shot,34,M,Draper,utah,FALSE,attack,Armed/Undetermined,White,utah
+125,-86.158068,39.768403,1/15/2015,shot,27,M,Indianapolis,indiana,FALSE,attack,Armed/Undetermined,Black,indiana
+126,-104.8319195,39.7294319,1/15/2015,shot,39,M,Aurora,colorado,FALSE,attack,Armed/Undetermined,Black,colorado
+127,-93.2982799,44.840798,1/15/2015,shot,24,M,Bloomington,minnesota,TRUE,attack,Armed/Undetermined,White,minnesota
+128,-122.0399663,38.2493581,1/15/2015,shot,36,M,Fairfield,california,TRUE,other,Armed/Undetermined,Hispanic,california
+129,-92.3813621,30.7821781,1/15/2015,shot,33,M,Evangeline Parish,louisiana,FALSE,attack,Armed/Undetermined,White,louisiana
+130,-96.1008056,32.3665322,1/16/2015,shot,41,M,Mabank,texas,FALSE,attack,Armed/Undetermined,White,texas
+131,-95.3696909,35.7478769,1/17/2015,shot,21,M,Muskogee,oklahoma,FALSE,attack,Armed/Undetermined,Black,oklahoma
+132,-118.2436849,34.0522342,1/17/2015,shot,24,M,Los Angeles,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+133,-97.3307658,32.7554883,1/17/2015,shot,27,M,Fort Worth,texas,FALSE,attack,Armed/Undetermined,Hispanic,texas
+134,-112.0476423,33.0581063,1/18/2015,shot,32,M,Maricopa,arizona,TRUE,attack,Armed/Undetermined,White,arizona
+135,-82.9259979,37.547597,1/18/2015,shot and Tasered,67,M,Gunlock,kentucky,TRUE,attack,Armed/Undetermined,White,kentucky
+136,-70.9410356,42.2180724,1/19/2015,shot,49,M,Weymouth,massachusetts,FALSE,attack,Armed/Undetermined,White,massachusetts
+137,-111.9260519,33.4941704,1/20/2015,shot,42,M,Scottsdale,arizona,FALSE,other,Armed/Undetermined,Black,arizona
+138,-116.9719684,33.7475203,1/21/2015,shot,36,M,Hemet,california,FALSE,attack,Armed/Undetermined,White,california
+139,-99.154991,26.534403,1/21/2015,shot,36,M,Chapeno,texas,FALSE,attack,Armed/Undetermined,Hispanic,texas
+140,-90.1994042,38.6270025,1/21/2015,shot,19,M,St. Louis,missouri,FALSE,attack,Armed/Undetermined,Black,missouri
+141,-71.3273346,42.8806437,1/21/2015,shot,54,M,Derry,new hampshire,TRUE,attack,Armed/Undetermined,White,new hampshire
+142,-105.3571764,31.1745732,1/22/2015,shot,25,M,Sierra Blanca,texas,FALSE,attack,Armed/Undetermined,Black,texas
+143,-94.7404891,32.5007037,1/22/2015,shot and Tasered,17,F,Longview,texas,TRUE,other,Armed/Undetermined,White,texas
+144,-97.7430608,30.267153,1/23/2015,shot,61,M,Austin,texas,TRUE,attack,Armed/Undetermined,White,texas
+145,-80.1373174,26.1224386,1/23/2015,shot,29,M,Fort Lauderdale,florida,FALSE,other,Armed/Undetermined,Black,florida
+146,-102.37796,33.5873164,1/23/2015,shot,56,M,Levelland,texas,FALSE,other,Armed/Undetermined,Hispanic,texas
+147,-97.3307658,32.7554883,1/24/2015,shot,40,M,Fort Worth,texas,FALSE,attack,Armed/Undetermined,White,texas
+148,-111.7924237,43.8231096,1/24/2015,shot,45,M,Rexburg,idaho,FALSE,attack,Armed/Undetermined,White,idaho
+149,-76.6121893,39.2903848,1/24/2015,shot,26,M,Baltimore,maryland,TRUE,other,Armed/Undetermined,Black,maryland
+150,-104.6091409,38.2544472,1/25/2015,shot,26,M,Pueblo,colorado,FALSE,attack,Armed/Undetermined,Hispanic,colorado
+151,-104.990251,39.7392358,1/26/2015,shot,17,F,Denver,colorado,FALSE,other,Armed/Undetermined,Hispanic,colorado
+152,-93.3866185,45.0380201,1/26/2015,shot,68,M,New Hope,minnesota,TRUE,attack,Armed/Undetermined,White,minnesota
+153,-119.3409457,35.5941238,1/26/2015,shot,34,M,Wasco,california,TRUE,other,Armed/Undetermined,Hispanic,california
+154,-109.3280282,33.0508859,1/27/2015,shot,29,M,Morenci,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+155,-82.9987942,39.9611755,1/27/2015,shot,33,M,Columbus,ohio,FALSE,attack,Armed/Undetermined,Black,ohio
+156,-95.9979883,41.2523634,1/27/2015,shot,39,F,Omaha,nebraska,TRUE,attack,Armed/Undetermined,White,nebraska
+157,-97.7666999,33.4520535,1/28/2015,shot,45,M,Sunset,texas,FALSE,attack,Armed/Undetermined,White,texas
+158,-95.8085623,29.5571825,1/28/2015,shot,26,M,Rosenberg,texas,FALSE,attack,Armed/Undetermined,White,texas
+159,-85.7053085,42.9133602,1/29/2015,shot,31,M,Wyoming,michigan,TRUE,attack,Armed/Undetermined,White,michigan
+160,-108.5006904,45.7832856,1/30/2015,shot,48,M,Billings,montana,FALSE,attack,Armed/Undetermined,White,montana
+161,-95.3698028,29.7604267,1/31/2015,shot,31,M,Houston,texas,FALSE,attack,Armed/Undetermined,Hispanic,texas
+162,-76.7952525,39.3673278,1/31/2015,shot and Tasered,54,M,Randallstown,maryland,TRUE,other,Armed/Undetermined,Black,maryland
+163,-83.8888647,43.5944677,2/2/2015,shot,17,M,Bay City,michigan,FALSE,attack,Armed/Undetermined,White,michigan
+164,-117.1858759,34.5008311,2/2/2015,shot,42,M,Apple Valley,california,TRUE,attack,Armed/Undetermined,White,california
+165,-90.1994042,38.6270025,2/3/2015,shot,23,M,St. Louis,missouri,FALSE,attack,Armed/Undetermined,Black,missouri
+166,-122.2852473,37.831316,2/3/2015,shot,38,F,Emeryville,california,FALSE,attack,Armed/Undetermined,Black,california
+167,-121.805789,38.0049214,2/3/2015,shot,29,M,Antioch,california,TRUE,other,Armed/Undetermined,Black,california
+168,-82.8498654,31.5088073,2/3/2015,shot,45,M,Douglas,georgia,TRUE,attack,Armed/Undetermined,White,georgia
+169,-81.3792365,28.5383355,2/4/2015,shot,37,M,Orlando,florida,FALSE,attack,Armed/Undetermined,Hispanic,florida
+170,-111.9400054,33.4255104,2/4/2015,shot,28,M,Tempe,arizona,FALSE,attack,Armed/Undetermined,Hispanic,arizona
+171,-97.2155596,31.3865592,2/4/2015,shot,51,M,Lorena,texas,FALSE,attack,Armed/Undetermined,Black,texas
+172,-90.0489801,35.1495343,2/4/2015,shot,36,M,Memphis,tennessee,FALSE,other,Armed/Undetermined,Black,tennessee
+173,-117.688944,34.0122346,2/5/2015,shot,59,M,Chino,california,FALSE,other,Armed/Undetermined,White,california
+174,-97.5164276,35.4675602,2/6/2015,shot,25,M,Oklahoma City,oklahoma,FALSE,attack,Armed/Undetermined,Black,oklahoma
+175,-117.0619755,34.0039039,2/7/2015,shot,26,M,Calimesa,california,FALSE,attack,Armed/Undetermined,White,california
+176,-81.1873005,35.262082,2/7/2015,shot,74,M,Gastonia,north carolina,FALSE,attack,Armed/Undetermined,Black,north carolina
+177,-149.9002778,61.2180556,2/8/2015,shot,33,M,Anchorage,alaska,FALSE,attack,Armed/Undetermined,White,alaska
+178,-97.7430608,30.267153,2/8/2015,shot,27,M,Austin,texas,FALSE,attack,Armed/Undetermined,White,texas
+179,-73.989306,41.1475954,2/8/2015,shot,57,M,New City,new york,TRUE,attack,Armed/Undetermined,White,new york
+180,-81.2518833,28.4844995,2/8/2015,shot,46,M,Orange County,florida,FALSE,attack,Armed/Undetermined,White,florida
+181,-97.7258626,33.7867684,2/8/2015,shot,41,M,Nocona,texas,FALSE,attack,Armed/Undetermined,White,texas
+182,-68.1203515,46.1644547,2/9/2015,shot,61,M,Smyrna,maine,TRUE,undetermined,Armed/Undetermined,White,maine
+183,-96.7969879,32.7766642,2/9/2015,shot,45,M,Dallas,texas,FALSE,attack,Armed/Undetermined,Black,texas
+184,-90.0466559,35.0277933,2/10/2015,shot,49,M,Whitehaven,tennessee,FALSE,attack,Armed/Undetermined,Black,tennessee
+185,-107.5364443,39.5727585,2/10/2015,shot,45,M,New Castle,colorado,TRUE,attack,Armed/Undetermined,White,colorado
+186,-121.8863286,37.3382082,2/11/2015,shot,23,M,San Jose,california,TRUE,other,Armed/Undetermined,Black,california
+187,-85.7635692,32.831238,2/11/2015,shot,46,M,Dadeville,alabama,TRUE,attack,Armed/Undetermined,White,alabama
+188,-117.2897652,34.1083449,2/13/2015,shot,23,M,San Bernardino,california,FALSE,attack,Armed/Undetermined,White,california
+189,-94.6274636,39.114053,2/13/2015,shot,21,M,Kansas City,kansas,FALSE,attack,Armed/Undetermined,Hispanic,kansas
+190,-88.5745001,35.987286,2/13/2015,shot,27,M,McLemoresville,tennessee,FALSE,attack,Armed/Undetermined,White,tennessee
+191,-110.6309289,32.5997933,2/13/2015,shot,37,M,San Manuel,arizona,TRUE,other,Armed/Undetermined,Hispanic,arizona
+192,-76.474962,39.3092743,2/14/2015,shot,16,M,Essex,maryland,TRUE,attack,Armed/Undetermined,White,maryland
+193,-99.4803241,27.5305671,2/14/2015,shot,51,M,Laredo,texas,FALSE,attack,Armed/Undetermined,White,texas
+194,-88.1900415,34.8117565,2/15/2015,shot,34,M,Iuka,mississippi,FALSE,attack,Armed/Undetermined,White,mississippi
+195,-122.4374803,45.1721192,2/15/2015,shot,34,M,Colton,oregon,TRUE,other,Armed/Undetermined,White,oregon
+196,-111.2224422,32.436381,2/16/2015,shot,56,M,Marana,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+197,-116.2146068,43.6187102,2/16/2015,shot,26,M,Boise,idaho,FALSE,attack,Armed/Undetermined,White,idaho
+198,-111.6585337,40.2338438,2/16/2015,shot,24,M,Provo,utah,TRUE,attack,Armed/Undetermined,White,utah
+199,-81.2078164,35.2895651,2/17/2015,shot,43,F,Gaston County,north carolina,FALSE,attack,Armed/Undetermined,White,north carolina
+200,-84.6688348,42.5642907,2/17/2015,shot,32,M,Eaton Rapids Township,michigan,FALSE,attack,Armed/Undetermined,White,michigan
+201,-71.2342248,42.6106478,2/17/2015,shot,30,M,Tewksbury,massachusetts,FALSE,attack,Armed/Undetermined,White,massachusetts
+202,-100.8958674,29.3708857,2/17/2015,shot,50,M,Del Rio,texas,FALSE,other,Armed/Undetermined,Hispanic,texas
+203,-80.8431267,35.2270869,2/18/2015,shot,20,F,Charlotte,north carolina,TRUE,other,Armed/Undetermined,Black,north carolina
+204,-95.3698028,29.7604267,2/20/2015,shot,NA,M,Houston,texas,FALSE,attack,Armed/Undetermined,Hispanic,texas
+205,-86.8008228,33.4717732,2/20/2015,shot,38,M,Homewood,alabama,FALSE,attack,Armed/Undetermined,Black,alabama
+206,-86.80249,33.5206608,2/20/2015,shot,77,M,Birmingham,alabama,TRUE,attack,Armed/Undetermined,Black,alabama
+207,-105.6588485,33.3672525,2/21/2015,shot,41,M,Ruidoso,new mexico,FALSE,attack,Armed/Undetermined,White,new mexico
+208,-86.158068,39.768403,2/21/2015,shot,51,M,Indianapolis,indiana,FALSE,attack,Armed/Undetermined,White,indiana
+209,-80.5886646,28.0344621,2/22/2015,shot,50,M,Palm Bay,florida,FALSE,attack,Armed/Undetermined,White,florida
+210,-75.4901833,40.6084305,2/23/2015,shot and Tasered,42,M,Allentown,pennsylvania,FALSE,attack,Armed/Undetermined,White,pennsylvania
+211,-90.9562125,30.4868564,2/23/2015,shot,47,M,Denham Springs,louisiana,TRUE,attack,Armed/Undetermined,White,louisiana
+212,-84.683824,33.8595491,2/23/2015,shot,37,M,Powder Springs,georgia,FALSE,other,Armed/Undetermined,White,georgia
+213,-83.5248933,34.6125971,2/23/2015,shot,41,M,Clarkesville,georgia,FALSE,attack,Armed/Undetermined,White,georgia
+214,-86.3619163,32.4798575,2/23/2015,shot,16,M,Millbrook,alabama,FALSE,attack,Armed/Undetermined,Black,alabama
+215,-88.019826,44.519159,2/24/2015,shot and Tasered,30,M,Green Bay,wisconsin,TRUE,attack,Armed/Undetermined,White,wisconsin
+216,-97.5164276,35.4675602,2/25/2015,shot,27,M,Oklahoma City,oklahoma,FALSE,other,Armed/Undetermined,Black,oklahoma
+217,-115.1398296,36.1699412,2/25/2015,shot,43,M,Las Vegas,nevada,TRUE,attack,Armed/Undetermined,White,nevada
+218,-81.9498042,28.0394654,2/26/2015,shot,42,M,Lakeland,florida,FALSE,attack,Armed/Undetermined,Hispanic,florida
+219,-122.4194155,37.7749295,2/26/2015,shot,21,M,San Francisco,california,FALSE,other,Armed/Undetermined,Hispanic,california
+220,-83.8354542,31.5307349,2/26/2015,shot,34,F,Sylvester,georgia,FALSE,attack,Armed/Undetermined,White,georgia
+221,-82.4559598,34.6423372,2/28/2015,shot,24,M,Pelzer,south carolina,FALSE,attack,Armed/Undetermined,White,south carolina
+222,-110.926479,32.2217429,2/28/2015,shot,28,F,Tucson,arizona,FALSE,other,Armed/Undetermined,Hispanic,arizona
+223,-92.3340724,38.9517053,2/28/2015,shot,28,M,Columbia,missouri,FALSE,attack,Armed/Undetermined,Black,missouri
+224,-77.5358049,35.8968236,2/28/2015,shot,40,M,Tarboro,north carolina,TRUE,attack,Armed/Undetermined,Black,north carolina
+225,-113.9536466,34.0061091,2/28/2015,shot,37,F,La Paz County,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+226,-87.891111,34.738611,3/1/2015,shot,49,M,Barton,mississippi,FALSE,attack,Armed/Undetermined,White,mississippi
+227,-88.0817251,41.525031,3/2/2015,shot,20,M,Joilet,illinois,FALSE,other,Armed/Undetermined,Black,illinois
+228,-75.5993692,38.3606736,3/3/2015,shot,25,M,Salisbury,maryland,FALSE,attack,Armed/Undetermined,Black,maryland
+229,-111.9400054,33.4255104,3/3/2015,shot,25,M,Tempe,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+230,-87.9064736,43.0389025,3/5/2015,shot,45,M,Milwaukee,wisconsin,TRUE,other,Armed/Undetermined,Black,wisconsin
+231,-96.6851982,40.8257625,3/5/2015,shot,34,M,Lincoln,nebraska,FALSE,attack,Armed/Undetermined,White,nebraska
+232,-81.9592635,29.7366333,3/6/2015,shot,48,M,Putnam Hall,florida,FALSE,other,Armed/Undetermined,Black,florida
+233,-112.0740373,33.4483771,3/7/2015,shot,29,M,Phoenix,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+234,-97.5164276,35.4675602,3/8/2015,shot,40,M,Oklahoma City,oklahoma,FALSE,attack,Armed/Undetermined,Hispanic,oklahoma
+235,-75.4596404,39.8006685,3/8/2015,shot,35,M,Claymont,delaware,FALSE,attack,Armed/Undetermined,White,delaware
+236,-117.9145036,33.8352932,3/8/2015,shot,43,F,Anaheim,california,TRUE,other,Armed/Undetermined,Black,california
+237,-82.7342919,35.2334472,3/9/2015,shot,58,M,Brevard,north carolina,FALSE,attack,Armed/Undetermined,White,north carolina
+238,-109.0145613,40.243578,3/9/2015,shot,46,M,Dinosaur,colorado,FALSE,attack,Armed/Undetermined,White,colorado
+239,-80.7419984,28.3861159,3/9/2015,shot,30,M,Cocoa,florida,FALSE,attack,Armed/Undetermined,Black,florida
+240,-91.1403196,30.4582829,3/10/2015,shot,31,M,Baton Rouge,louisiana,FALSE,attack,Armed/Undetermined,Black,louisiana
+241,-81.163168,32.149092,3/10/2015,shot,23,M,Port Wentworth,georgia,FALSE,attack,Armed/Undetermined,White,georgia
+242,-117.6508876,34.0633443,3/10/2015,shot,37,M,Ontario,california,TRUE,other,Armed/Undetermined,Hispanic,california
+243,-81.6943605,41.49932,3/10/2015,shot,64,M,Cleveland,ohio,FALSE,attack,Armed/Undetermined,Black,ohio
+244,-90.0489801,35.1495343,3/11/2015,shot,31,M,Memphis,tennessee,TRUE,attack,Armed/Undetermined,White,tennessee
+245,-117.8678338,33.7455731,3/11/2015,shot,39,M,Santa Ana,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+246,-114.0530065,35.189443,3/11/2015,shot,31,M,Kingman,arizona,TRUE,attack,Armed/Undetermined,White,arizona
+247,-118.2436849,34.0522342,3/11/2015,shot,25,M,Los Angeles,california,FALSE,other,Armed/Undetermined,Hispanic,california
+248,-87.7730474,30.8829628,3/11/2015,shot,54,M,Bay Minette,alabama,FALSE,attack,Armed/Undetermined,White,alabama
+249,-86.8113781,33.4053867,3/11/2015,shot,53,M,Hoover,alabama,TRUE,attack,Armed/Undetermined,White,alabama
+250,-75.8332718,39.6067789,3/11/2015,shot,37,M,Elkton,maryland,FALSE,other,Armed/Undetermined,Black,maryland
+251,-94.5785667,39.0997265,3/13/2015,shot,59,M,Kansas City,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+252,-117.435048,34.0922335,3/13/2015,shot,36,M,Fontana,california,FALSE,attack,Armed/Undetermined,White,california
+253,-122.286865,38.2975381,3/13/2015,shot,41,M,Napa,california,FALSE,other,Armed/Undetermined,Hispanic,california
+254,-98.4936282,29.4241219,3/14/2015,shot,29,M,San Antonio,texas,TRUE,attack,Armed/Undetermined,Hispanic,texas
+255,-80.5959065,40.3275693,3/14/2015,shot,53,M,Follansbee,west virginia,FALSE,other,Armed/Undetermined,White,west virginia
+256,-87.8211854,42.5847425,3/14/2015,shot,26,M,Kenosha,wisconsin,FALSE,attack,Armed/Undetermined,White,wisconsin
+257,-90.3164819,31.3815627,3/15/2015,shot,27,M,Ruth,mississippi,FALSE,other,Armed/Undetermined,White,mississippi
+258,-93.0899578,44.9537029,3/16/2015,shot,28,M,St. Paul,minnesota,TRUE,attack,Armed/Undetermined,White,minnesota
+259,-81.1873005,35.262082,3/16/2015,shot,52,M,Gastonia,north carolina,TRUE,attack,Armed/Undetermined,White,north carolina
+260,-95.1163261,30.805746,3/17/2015,shot,20,M,Onalaska,texas,TRUE,attack,Armed/Undetermined,White,texas
+261,-122.8755949,42.3265152,3/17/2015,shot,49,M,Medford,oregon,TRUE,attack,Armed/Undetermined,White,oregon
+262,-78.726407,34.6568361,3/17/2015,shot,24,M,Dublin,north carolina,FALSE,attack,Armed/Undetermined,White,north carolina
+263,-122.4194155,37.7749295,3/17/2015,shot,24,F,San Francisco,california,TRUE,other,Armed/Undetermined,White,california
+264,-119.0187125,35.3732921,3/18/2015,shot,47,M,Bakersfield,california,FALSE,other,Armed/Undetermined,White,california
+265,-112.1859866,33.5386523,3/18/2015,shot,49,F,Glendale,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+266,-84.2807329,30.4382559,3/18/2015,shot,64,M,Tallahassee,florida,FALSE,attack,Armed/Undetermined,White,florida
+267,-81.655651,30.3321838,3/19/2015,shot,16,M,Jacksonville,florida,FALSE,attack,Armed/Undetermined,Black,florida
+268,-119.0187125,35.3732921,3/19/2015,shot,36,M,Bakersfield,california,FALSE,attack,Armed/Undetermined,White,california
+269,-87.3016132,34.567428,3/19/2015,shot,39,M,Lawrence County,alabama,TRUE,other,Armed/Undetermined,White,alabama
+270,-116.6201357,43.7068281,3/19/2015,shot,31,M,Middleton,idaho,FALSE,attack,Armed/Undetermined,White,idaho
+271,-90.0715323,29.9510658,3/20/2015,shot,63,M,New Orleans,louisiana,TRUE,attack,Armed/Undetermined,Black,louisiana
+272,-96.2800864,34.568577,3/20/2015,shot,34,M,Coal County,oklahoma,FALSE,attack,Armed/Undetermined,White,oklahoma
+273,-78.0647387,43.193393,3/21/2015,shot,44,M,Clarendon,new york,FALSE,attack,Armed/Undetermined,White,new york
+274,-87.069919,39.5349663,3/21/2015,shot,60,M,Harmony,indiana,TRUE,attack,Armed/Undetermined,White,indiana
+275,-82.9987942,39.9611755,3/21/2015,shot,42,M,Columbus,ohio,FALSE,attack,Armed/Undetermined,White,ohio
+276,-112.0098791,34.7391876,3/21/2015,shot,21,M,Cottonwood,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+277,-122.2566367,38.1040864,3/22/2015,shot,37,M,Vallejo,california,TRUE,other,Armed/Undetermined,White,california
+278,-122.6764816,45.5230622,3/22/2015,shot and Tasered,36,M,Portland,oregon,TRUE,other,Armed/Undetermined,White,oregon
+279,-73.2103934,40.7298207,3/22/2015,shot and Tasered,21,M,Islip,new york,FALSE,attack,Armed/Undetermined,Black,new york
+280,-121.9552356,37.3541079,3/23/2015,shot,24,M,Santa Clara,california,FALSE,attack,Armed/Undetermined,Black,california
+281,-88.4470508,43.7730448,3/24/2015,shot,38,M,Fond du Lac,wisconsin,FALSE,attack,Armed/Undetermined,White,wisconsin
+282,-76.2982742,36.8354258,3/24/2015,shot,29,M,Portsmouth,virginia,TRUE,attack,Armed/Undetermined,Black,virginia
+283,-121.8863286,37.3382082,3/24/2015,shot,57,M,San Jose,california,TRUE,attack,Armed/Undetermined,White,california
+284,-84.5143761,33.8839926,3/25/2015,shot,23,M,Smyrna,georgia,FALSE,other,Armed/Undetermined,Black,georgia
+285,-79.4492228,33.8179432,3/25/2015,shot,27,M,Johnsonville,south carolina,FALSE,attack,Armed/Undetermined,Black,south carolina
+286,-118.2914872,33.9891116,3/25/2015,shot,28,M,South Los Angeles,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+287,-112.1859866,33.5386523,3/25/2015,shot and Tasered,63,M,Glendale,arizona,TRUE,other,Armed/Undetermined,White,arizona
+288,-94.9271868,38.8108408,3/26/2015,shot,53,F,Gardner,kansas,FALSE,attack,Armed/Undetermined,White,kansas
+289,-118.2643567,33.7857948,3/26/2015,shot,35,M,Wilmington,california,TRUE,other,Armed/Undetermined,Hispanic,california
+290,-117.2919818,33.0369867,3/27/2015,shot,56,M,Encinitas,california,TRUE,attack,Armed/Undetermined,White,california
+291,-80.3256056,27.4467056,3/27/2015,shot,39,M,Fort Pierce,florida,FALSE,other,Armed/Undetermined,Black,florida
+292,-119.0187125,35.3732921,3/27/2015,shot,23,M,Bakersfield,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+293,-71.8800628,42.050091,3/27/2015,shot,40,M,Webster,massachusetts,FALSE,attack,Armed/Undetermined,White,massachusetts
+294,-119.1770516,34.1975048,3/27/2015,shot,26,F,Oxnard,california,FALSE,other,Armed/Undetermined,Black,california
+295,-78.7686297,39.5031465,3/27/2015,shot,42,M,Fort Ashby,west virginia,FALSE,attack,Armed/Undetermined,White,west virginia
+296,-71.0588801,42.3600825,3/27/2015,shot,41,M,Boston,massachusetts,FALSE,attack,Armed/Undetermined,Black,massachusetts
+297,-83.0565679,39.05007,3/29/2015,shot,26,M,Jasper,ohio,FALSE,attack,Armed/Undetermined,White,ohio
+298,-85.8649408,37.7030646,3/29/2015,shot,29,M,Elizabethtown,kentucky,FALSE,attack,Armed/Undetermined,Black,kentucky
+299,-123.0867536,44.0520691,3/30/2015,shot,49,M,Eugene,oregon,TRUE,attack,Armed/Undetermined,White,oregon
+300,-82.4996398,28.0507738,3/31/2015,shot,36,M,Carollwood,florida,FALSE,attack,Armed/Undetermined,White,florida
+301,-94.9774274,29.7355047,3/31/2015,shot,21,M,Baytown,texas,FALSE,attack,Armed/Undetermined,Hispanic,texas
+302,-76.7267773,39.1137602,3/31/2015,shot,27,F,Fort Meade,maryland,FALSE,other,Armed/Undetermined,Black,maryland
+303,-118.3525748,33.9164032,4/1/2015,shot,37,M,Hawthorne,california,FALSE,attack,Armed/Undetermined,Black,california
+304,-74.6796651,40.2115109,4/1/2015,shot,36,M,Hamilton,new jersey,FALSE,attack,Armed/Undetermined,White,new jersey
+305,-90.5787476,41.5094771,4/2/2015,shot,32,M,Rock Island,illinois,FALSE,attack,Armed/Undetermined,Black,illinois
+306,-88.7319979,37.1511655,4/2/2015,shot and Tasered,63,M,Metropolis,illinois,TRUE,attack,Armed/Undetermined,White,illinois
+307,-92.4343035,31.3224044,4/2/2015,shot,27,M,Pineville,louisiana,TRUE,attack,Armed/Undetermined,White,louisiana
+308,-78.1633341,39.1856597,4/3/2015,shot,38,M,Winchester,virginia,FALSE,other,Armed/Undetermined,White,virginia
+309,-87.8328505,42.4461322,4/4/2015,shot,17,M,Zion,illinois,FALSE,attack,Armed/Undetermined,Black,illinois
+310,-117.8531119,33.7877944,4/4/2015,shot,31,M,Orange,california,FALSE,attack,Armed/Undetermined,Black,california
+311,-106.1914141,35.0614358,4/4/2015,shot,34,M,Edgewood,new mexico,TRUE,attack,Armed/Undetermined,White,new mexico
+312,-112.0740373,33.4483771,4/5/2015,shot,51,M,Phoenix,arizona,TRUE,other,Armed/Undetermined,White,arizona
+313,-118.4489739,35.1321877,4/5/2015,shot,56,M,Tehachapi,california,FALSE,attack,Armed/Undetermined,White,california
+314,-86.158068,39.768403,4/6/2015,shot,23,M,Indianapolis,indiana,TRUE,attack,Armed/Undetermined,White,indiana
+315,-90.0772944,29.9035387,4/6/2015,shot,25,M,Harvey,louisiana,FALSE,attack,Armed/Undetermined,Black,louisiana
+316,-112.2493671,43.7640903,4/6/2015,shot,31,M,Jefferson County,idaho,FALSE,attack,Armed/Undetermined,White,idaho
+317,-97.0068393,35.275439,4/7/2015,shot,32,M,Pottawatomie County,oklahoma,FALSE,attack,Armed/Undetermined,White,oklahoma
+318,-98.4936282,29.4241219,4/8/2015,shot,60,M,San Antonio,texas,FALSE,attack,Armed/Undetermined,White,texas
+319,-83.2784851,30.8327022,4/8/2015,shot,42,M,Valdosta,georgia,FALSE,attack,Armed/Undetermined,Black,georgia
+320,-118.2436849,34.0522342,4/8/2015,shot,39,M,Los Angeles,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+321,-86.9123217,30.4109342,4/9/2015,shot,22,M,Navarre,florida,FALSE,attack,Armed/Undetermined,White,florida
+322,-86.8789044,40.8678171,4/9/2015,shot,29,M,Monon,indiana,FALSE,attack,Armed/Undetermined,Black,indiana
+323,-77.1735312,39.8716058,4/9/2015,shot,31,M,Straban Township,pennsylvania,TRUE,attack,Armed/Undetermined,White,pennsylvania
+324,-81.9817726,35.046508,4/9/2015,shot,28,M,Boiling Springs,south carolina,FALSE,attack,Armed/Undetermined,White,south carolina
+325,-122.1791556,39.9276572,4/10/2015,shot,21,M,Corning,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+326,-95.6890185,39.0558235,4/10/2015,shot,38,M,Topeka,kansas,FALSE,attack,Armed/Undetermined,White,kansas
+327,-96.108891,36.1398102,4/11/2015,shot,66,M,Sand Springs,oklahoma,TRUE,attack,Armed/Undetermined,White,oklahoma
+328,-86.158068,39.768403,4/12/2015,shot,36,M,Indianapolis,indiana,FALSE,attack,Armed/Undetermined,Black,indiana
+329,-97.5164276,35.4675602,4/12/2015,shot,83,M,Oklahoma City,oklahoma,TRUE,other,Armed/Undetermined,White,oklahoma
+330,-78.5030622,35.0154469,4/12/2015,shot,32,M,Salemburg,north carolina,TRUE,attack,Armed/Undetermined,White,north carolina
+331,-90.1842764,38.8906038,4/13/2015,shot,27,M,Alton,illinois,FALSE,attack,Armed/Undetermined,Hispanic,illinois
+332,-96.8570738,32.5896998,4/14/2015,shot,26,M,DeSoto,texas,FALSE,undetermined,Armed/Undetermined,Black,texas
+333,-90.704279,35.8422967,4/14/2015,shot,31,M,Jonesboro,arkansas,TRUE,attack,Armed/Undetermined,White,arkansas
+334,-80.1917902,25.7616798,4/15/2015,shot,22,M,Miami,florida,FALSE,undetermined,Armed/Undetermined,Black,florida
+335,-81.9320482,34.9495672,4/15/2015,shot,41,M,Spartanburg,south carolina,FALSE,attack,Armed/Undetermined,Black,south carolina
+336,-92.3340724,38.9517053,4/15/2015,shot,51,M,Columbia,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+337,-105.2253316,38.4494063,4/15/2015,shot,72,M,Cañon City,colorado,TRUE,attack,Armed/Undetermined,White,colorado
+338,-117.6897776,34.0775104,4/15/2015,shot,52,M,Montclair,california,TRUE,attack,Armed/Undetermined,Hispanic,california
+339,-119.2717761,35.5005139,4/16/2015,shot,47,M,Shafter,california,FALSE,other,Armed/Undetermined,Hispanic,california
+340,-87.6297982,41.8781136,4/17/2015,shot,18,M,Chicago,illinois,FALSE,attack,Armed/Undetermined,Black,illinois
+341,-116.9719684,33.7475203,4/17/2015,shot,29,M,Hemet,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+342,-90.2603903,38.7192175,4/17/2015,shot,23,M,Jennings,missouri,TRUE,other,Armed/Undetermined,Black,missouri
+343,-112.0740373,33.4483771,4/18/2015,shot,43,M,Phoenix,arizona,TRUE,attack,Armed/Undetermined,Hispanic,arizona
+344,-85.6602058,30.1588129,4/18/2015,shot,45,M,Panama City,florida,FALSE,attack,Armed/Undetermined,White,florida
+345,-84.6616105,37.8620226,4/19/2015,shot,40,M,Wilmore,kentucky,TRUE,attack,Armed/Undetermined,White,kentucky
+346,-102.9774497,41.1448219,4/19/2015,shot,44,M,Sidney,nebraska,FALSE,attack,Armed/Undetermined,White,nebraska
+347,-98.3252932,26.2159066,4/20/2015,shot,25,M,Mission,texas,FALSE,other,Armed/Undetermined,Hispanic,texas
+348,-74.7429384,40.2170534,4/21/2015,shot,35,M,Trenton,new jersey,FALSE,attack,Armed/Undetermined,Black,new jersey
+349,-81.1831513,34.0859829,4/21/2015,shot,59,M,Irmo,south carolina,TRUE,other,Armed/Undetermined,White,south carolina
+350,-118.2436849,34.0522342,4/21/2015,shot,35,M,Los Angeles,california,TRUE,other,Armed/Undetermined,Hispanic,california
+351,-109.9284084,31.4481547,4/22/2015,shot,51,M,Bisbee,arizona,FALSE,other,Armed/Undetermined,Hispanic,arizona
+352,-73.7948516,40.7282239,4/22/2015,shot,30,M,Queens,new york,TRUE,attack,Armed/Undetermined,White,new york
+353,-97.3307658,32.7554883,4/22/2015,shot,31,M,Fort Worth,texas,FALSE,attack,Armed/Undetermined,Black,texas
+354,-118.4571974,34.3058279,4/23/2015,shot,26,M,Sylmar,california,TRUE,attack,Armed/Undetermined,White,california
+355,-95.1441197,34.1237158,4/23/2015,shot,51,M,Rufe,oklahoma,FALSE,attack,Armed/Undetermined,White,oklahoma
+356,-83.0363633,42.3149367,4/24/2015,shot,46,F,Windsor,california,FALSE,attack,Armed/Undetermined,White,california
+357,-123.0867536,44.0520691,4/24/2015,shot,49,M,Eugene,oregon,FALSE,attack,Armed/Undetermined,White,oregon
+358,-94.8774554,36.8745146,4/24/2015,shot,63,M,Miami,oklahoma,FALSE,attack,Armed/Undetermined,White,oklahoma
+359,-104.5005407,37.1694632,4/24/2015,shot,20,M,Trinidad,colorado,FALSE,attack,Armed/Undetermined,Black,colorado
+360,-97.0035982,28.8052674,4/25/2015,shot,25,M,Victoria,texas,TRUE,other,Armed/Undetermined,White,texas
+361,-81.7728543,28.5494447,4/25/2015,shot,58,M,Clermont,florida,TRUE,other,Armed/Undetermined,White,florida
+362,-119.8815203,36.0988489,4/26/2015,shot,76,M,Kings County,california,FALSE,attack,Armed/Undetermined,White,california
+363,-117.9536697,33.7091847,4/26/2015,shot,45,M,Fountain Valley,california,FALSE,attack,Armed/Undetermined,White,california
+364,-83.0457538,42.331427,4/27/2015,shot,20,M,Detroit,michigan,FALSE,other,Armed/Undetermined,Black,michigan
+365,-82.5154471,40.75839,4/28/2015,shot,58,M,Mansfield,ohio,FALSE,attack,Armed/Undetermined,White,ohio
+366,-90.0715323,29.9510658,4/28/2015,shot,21,M,New Orleans,louisiana,FALSE,attack,Armed/Undetermined,Black,louisiana
+367,-88.9331256,37.7306054,4/28/2015,shot,27,M,Marion,illinois,TRUE,attack,Armed/Undetermined,White,illinois
+368,-97.9364326,35.052565,4/29/2015,shot,26,M,Chickasha,oklahoma,FALSE,other,Armed/Undetermined,White,oklahoma
+369,-111.8314724,33.4151843,4/29/2015,shot,33,M,Mesa,arizona,TRUE,attack,Armed/Undetermined,Hispanic,arizona
+370,-121.3716178,38.4087993,4/29/2015,shot,27,M,Elk Grove,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+371,-84.3879824,33.7489954,4/29/2015,shot,25,F,Atlanta,georgia,FALSE,attack,Armed/Undetermined,Black,georgia
+372,-77.5424809,36.6859829,4/29/2015,shot,53,M,Emporia,virginia,TRUE,attack,Armed/Undetermined,Black,virginia
+373,-86.7816016,36.1626638,4/29/2015,shot,53,M,Nashville,tennessee,TRUE,attack,Armed/Undetermined,White,tennessee
+374,-106.4850217,31.7618778,4/30/2015,shot and Tasered,22,M,El Paso,texas,FALSE,other,Armed/Undetermined,Hispanic,texas
+375,-75.6046494,39.2998339,5/2/2015,shot,52,M,Smyrna,delaware,FALSE,attack,Armed/Undetermined,White,delaware
+376,-109.9887605,40.299403,5/3/2015,shot,36,M,Roosevelt,utah,TRUE,attack,Armed/Undetermined,White,utah
+377,-96.6388833,32.912624,5/3/2015,shot,30,M,Garland,texas,FALSE,attack,Armed/Undetermined,Black,texas
+378,-106.6055534,35.0853336,5/3/2015,shot,44,M,Albuquerque,new mexico,FALSE,attack,Armed/Undetermined,Hispanic,new mexico
+379,-83.3562912,37.3478702,5/3/2015,shot,53,M,Chavies,kentucky,FALSE,attack,Armed/Undetermined,White,kentucky
+380,-119.1372338,46.2112458,5/4/2015,shot,36,M,Kennewick,washington,TRUE,attack,Armed/Undetermined,White,washington
+381,-80.7797935,37.0478982,5/5/2015,shot,46,M,Pulaski,virginia,TRUE,attack,Armed/Undetermined,White,virginia
+382,-78.5097228,35.9798734,5/6/2015,shot,18,M,Wake Forest,north carolina,FALSE,attack,Armed/Undetermined,White,north carolina
+383,-73.9695832,41.5048158,5/7/2015,shot,38,M,Beacon,new york,FALSE,other,Armed/Undetermined,White,new york
+384,-118.0647871,33.8583483,5/7/2015,shot,21,M,Cerritos,california,FALSE,attack,Armed/Undetermined,Black,california
+385,-110.9106656,33.0570085,5/8/2015,shot,35,M,Kearny,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+386,-76.0001965,43.2478466,5/8/2015,shot,58,M,Constantia,new york,TRUE,attack,Armed/Undetermined,White,new york
+387,-90.0772944,29.9035387,5/8/2015,shot,48,M,Harvey,louisiana,FALSE,attack,Armed/Undetermined,Black,louisiana
+388,-93.2632821,45.0860765,5/8/2015,shot,31,M,Fridley,minnesota,FALSE,attack,Armed/Undetermined,Black,minnesota
+389,-122.4442906,47.2528768,5/10/2015,shot,47,M,Tacoma,washington,FALSE,attack,Armed/Undetermined,White,washington
+390,-76.8966397,38.9340002,5/10/2015,shot,34,M,Landover,maryland,FALSE,other,Armed/Undetermined,Black,maryland
+391,-97.3307658,32.7554883,5/11/2015,shot,30,M,Fort Worth,texas,FALSE,attack,Armed/Undetermined,Black,texas
+392,-81.3124341,29.9012437,5/11/2015,shot,28,M,St. Augustine,florida,TRUE,other,Armed/Undetermined,White,florida
+393,-81.655651,30.3321838,5/12/2015,shot,28,M,Jacksonville,florida,FALSE,other,Armed/Undetermined,Black,florida
+394,-117.603104,33.640855,5/12/2015,shot,40,M,Rancho Santa Margarita,california,TRUE,other,Armed/Undetermined,White,california
+395,-85.5800022,42.2011538,5/14/2015,shot,37,M,Portage,michigan,TRUE,attack,Armed/Undetermined,White,michigan
+396,-81.3124341,29.9012437,5/14/2015,shot,53,M,St. Augustine,florida,TRUE,attack,Armed/Undetermined,White,florida
+397,-89.0939952,42.2711311,5/15/2015,shot,41,M,Rockford,illinois,TRUE,attack,Armed/Undetermined,White,illinois
+398,-121.4943996,38.5815719,5/15/2015,shot,42,M,Sacramento,california,TRUE,attack,Armed/Undetermined,White,california
+399,-87.6467131,41.6100344,5/16/2015,shot,45,M,Harvey,illinois,FALSE,attack,Armed/Undetermined,Black,illinois
+400,-117.1610838,32.715738,5/17/2015,shot,34,M,San Diego,california,TRUE,attack,Armed/Undetermined,White,california
+401,-82.6267345,27.7518284,5/17/2015,shot,18,M,St. Petersburg,florida,TRUE,attack,Armed/Undetermined,White,florida
+402,-105.6588485,33.3672525,5/17/2015,shot,27,M,Ruidoso,new mexico,FALSE,other,Armed/Undetermined,White,new mexico
+403,-92.0165336,34.974532,5/19/2015,shot,35,M,Cabot,arkansas,FALSE,attack,Armed/Undetermined,White,arkansas
+404,-108.5506486,39.0638705,5/19/2015,shot,17,M,Grand Junction,colorado,FALSE,attack,Armed/Undetermined,White,colorado
+405,-76.3055144,40.0378755,5/20/2015,shot,29,M,Lancaster,pennsylvania,FALSE,attack,Armed/Undetermined,Black,pennsylvania
+406,-81.4831714,40.9458898,5/20/2015,shot and Tasered,52,M,Green,ohio,FALSE,other,Armed/Undetermined,White,ohio
+407,-87.1111676,37.7719074,5/20/2015,shot,38,M,Owensboro,kentucky,FALSE,attack,Armed/Undetermined,Black,kentucky
+408,-105.5022205,44.2910915,5/20/2015,shot and Tasered,39,F,Gillette,wyoming,FALSE,other,Armed/Undetermined,White,wyoming
+409,-95.9979883,41.2523634,5/20/2015,shot,26,M,Omaha,nebraska,FALSE,attack,Armed/Undetermined,Black,nebraska
+410,-106.4850217,31.7618778,5/21/2015,shot,22,M,El Paso,texas,TRUE,undetermined,Armed/Undetermined,Hispanic,texas
+411,-80.1373174,26.1224386,5/21/2015,shot,29,M,Ft. Lauderdale,florida,FALSE,attack,Armed/Undetermined,Black,florida
+412,-79.9748103,32.8546197,5/21/2015,shot,43,M,North Charleston,south carolina,FALSE,attack,Armed/Undetermined,White,south carolina
+413,-74.0434736,40.8859325,5/21/2015,shot,24,M,Hackensack,new jersey,TRUE,other,Armed/Undetermined,Hispanic,new jersey
+414,-79.9310512,32.7764749,5/21/2015,shot,32,M,Charleston,south carolina,FALSE,attack,Armed/Undetermined,Black,south carolina
+415,-79.0780831,40.008411,5/22/2015,shot,40,M,Somerset,pennsylvania,FALSE,attack,Armed/Undetermined,White,pennsylvania
+416,-83.0457538,42.331427,5/23/2015,shot,25,M,Detroit,michigan,FALSE,attack,Armed/Undetermined,Black,michigan
+417,-93.2282613,38.7044609,5/23/2015,shot,47,M,Sedalia,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+418,-109.291475,34.1111581,5/23/2015,shot,40,M,Eagar,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+419,-97.7430608,30.267153,5/25/2015,shot,31,F,Austin,texas,TRUE,attack,Armed/Undetermined,White,texas
+420,-86.5861037,34.7303688,5/25/2015,shot,36,M,Huntsville,alabama,TRUE,attack,Armed/Undetermined,Black,alabama
+421,-122.0981848,47.9128756,5/26/2015,shot,62,M,Snohomish,washington,TRUE,attack,Armed/Undetermined,White,washington
+422,-73.7948516,40.7282239,5/26/2015,shot,51,M,Queens,new york,FALSE,attack,Armed/Undetermined,Black,new york
+423,-93.7321228,32.5159852,5/26/2015,shot,24,M,Bossier City,louisiana,FALSE,attack,Armed/Undetermined,White,louisiana
+424,-74.1065303,40.443441,5/27/2015,shot,39,M,Ideal Beach,new jersey,FALSE,attack,Armed/Undetermined,White,new jersey
+425,-97.4780954,35.6528323,5/27/2015,shot,24,M,Edmond,oklahoma,TRUE,attack,Armed/Undetermined,White,oklahoma
+426,-83.2187677,33.3276362,5/27/2015,shot,57,M,Rockville,georgia,TRUE,attack,Armed/Undetermined,White,georgia
+427,-116.7664109,32.8350521,5/27/2015,shot and Tasered,33,M,Alpine,california,TRUE,other,Armed/Undetermined,White,california
+428,-80.7709014,34.7204257,5/28/2015,shot,60,M,Lancaster,south carolina,FALSE,attack,Armed/Undetermined,White,south carolina
+429,-104.9811468,39.8961821,5/28/2015,shot,32,M,Northglenn,colorado,FALSE,attack,Armed/Undetermined,Black,colorado
+430,-85.0766113,33.5801103,5/28/2015,shot,40,M,Carrollton,georgia,FALSE,attack,Armed/Undetermined,Black,georgia
+431,-83.1782587,42.1394858,5/28/2015,shot and Tasered,18,M,Trenton,michigan,FALSE,attack,Armed/Undetermined,White,michigan
+432,-74.1243063,40.8120171,5/29/2015,shot,36,M,Lyndhurst,new jersey,FALSE,other,Armed/Undetermined,Black,new jersey
+433,-95.9832577,35.6795873,5/29/2015,shot,35,M,Okmulgee County,oklahoma,FALSE,attack,Armed/Undetermined,White,oklahoma
+434,-123.4670077,42.382338,5/29/2015,shot,55,M,Wilderville,oregon,FALSE,attack,Armed/Undetermined,White,oregon
+435,-86.7816016,36.1626638,5/30/2015,shot,39,M,Nashville,tennessee,FALSE,attack,Armed/Undetermined,Hispanic,tennessee
+436,-95.6307891,31.7621153,5/31/2015,shot,47,M,Palestine,texas,FALSE,attack,Armed/Undetermined,White,texas
+437,-77.6930602,43.2097837,6/1/2015,shot,23,M,Greece,new york,TRUE,attack,Armed/Undetermined,White,new york
+438,-71.1270268,42.2832142,6/2/2015,shot,26,M,Roslindale,massachusetts,FALSE,other,Armed/Undetermined,Black,massachusetts
+439,-97.5458565,32.8951262,6/2/2015,shot,26,M,Azle,texas,TRUE,attack,Armed/Undetermined,White,texas
+440,-119.2470536,35.7688425,6/3/2015,shot,46,M,Delano,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+441,-96.8350999,32.2619765,6/3/2015,shot,18,M,Ellis County,texas,TRUE,attack,Armed/Undetermined,Hispanic,texas
+442,-94.7363152,30.4471514,6/3/2015,shot,33,M,Fuqua,texas,FALSE,other,Armed/Undetermined,Hispanic,texas
+443,-74.7227291,40.9601024,6/3/2015,shot,56,M,Byram,new jersey,TRUE,attack,Armed/Undetermined,White,new jersey
+444,-120.4357191,34.9530337,6/5/2015,shot,50,M,Santa Maria,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+445,-79.9558968,39.629526,6/5/2015,shot,45,F,Morgantown,west virginia,FALSE,other,Armed/Undetermined,White,west virginia
+446,-122.2711137,37.8043637,6/6/2015,shot and Tasered,30,M,Oakland,california,FALSE,attack,Armed/Undetermined,Black,california
+447,-82.2359254,27.044224,6/6/2015,shot,53,M,North Port,florida,FALSE,attack,Armed/Undetermined,White,florida
+448,-121.7568946,36.910231,6/6/2015,shot,45,M,Watsonsville,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+449,-102.0779146,31.9973456,6/6/2015,shot,42,M,Midland,texas,TRUE,other,Armed/Undetermined,White,texas
+450,-104.3232924,39.7383163,6/6/2015,shot,27,M,Strasburg,colorado,FALSE,attack,Armed/Undetermined,Hispanic,colorado
+451,-80.6081089,28.0836269,6/7/2015,shot,36,M,Melbourne,florida,FALSE,attack,Armed/Undetermined,White,florida
+452,-122.7439912,45.9045591,6/7/2015,shot,58,M,Woodland,washington,TRUE,attack,Armed/Undetermined,White,washington
+453,-117.9145036,33.8352932,6/8/2015,shot,30,M,Anaheim,california,TRUE,other,Armed/Undetermined,Hispanic,california
+454,-112.2718239,33.5975393,6/8/2015,shot,69,M,Sun City,arizona,TRUE,attack,Armed/Undetermined,White,arizona
+455,-95.6160549,30.0971621,6/9/2015,shot,45,M,Tomball,texas,FALSE,attack,Armed/Undetermined,White,texas
+456,-84.5120196,39.1031182,6/9/2015,shot,22,M,Cincinnati,ohio,FALSE,attack,Armed/Undetermined,Black,ohio
+457,-73.8654295,40.8370495,6/10/2015,shot,19,M,Bronx,new york,FALSE,attack,Armed/Undetermined,Black,new york
+458,-80.1247667,26.2378597,6/11/2015,shot,40,M,Pompano Beach,florida,FALSE,attack,Armed/Undetermined,Black,florida
+459,-80.1917902,25.7616798,6/11/2015,shot,46,M,Miami,florida,FALSE,other,Armed/Undetermined,Black,florida
+460,-98.5721016,29.4200763,6/11/2015,shot,28,M,Bexar County,texas,TRUE,attack,Armed/Undetermined,Hispanic,texas
+461,-74.0434736,40.8859325,6/11/2015,shot,22,M,Hackensack,new jersey,TRUE,other,Armed/Undetermined,Hispanic,new jersey
+462,-86.1336033,40.486427,6/12/2015,shot,17,F,Kokomo,indiana,TRUE,attack,Armed/Undetermined,White,indiana
+463,-85.1393513,41.079273,6/13/2015,shot,46,M,Fort Wayne,indiana,FALSE,attack,Armed/Undetermined,White,indiana
+464,-85.7584557,38.2526647,6/13/2015,shot,35,M,Louisville,kentucky,FALSE,other,Armed/Undetermined,Black,kentucky
+465,-96.7130521,32.6492999,6/13/2015,shot,35,M,Hutchins,texas,TRUE,attack,Armed/Undetermined,White,texas
+466,-121.2907796,37.9577016,6/14/2015,shot,28,M,Stockton,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+467,-80.7419984,28.3861159,6/14/2015,shot,15,M,Cocoa,florida,TRUE,attack,Armed/Undetermined,White,florida
+468,-119.2920585,36.3302284,6/16/2015,shot,28,M,Visalia,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+469,-86.6294262,32.8387371,6/17/2015,shot,40,F,Clanton,alabama,FALSE,attack,Armed/Undetermined,White,alabama
+470,-103.1360403,32.7026116,6/17/2015,shot,48,M,Hobbs,new mexico,TRUE,attack,Armed/Undetermined,White,new mexico
+471,-73.9859414,40.5749261,6/18/2015,shot,58,M,Coney Island,new york,FALSE,attack,Armed/Undetermined,White,new york
+472,-71.0588801,42.3600825,6/19/2015,shot,44,M,Boston,massachusetts,TRUE,other,Armed/Undetermined,Hispanic,massachusetts
+473,-84.5120196,39.1031182,6/19/2015,shot,21,M,Cincinnati,ohio,TRUE,attack,Armed/Undetermined,Black,ohio
+474,-104.7091322,40.4233142,6/19/2015,shot,50,M,Greeley,colorado,FALSE,attack,Armed/Undetermined,Hispanic,colorado
+475,-87.6297982,41.8781136,6/20/2015,shot,23,M,Chicago,illinois,FALSE,attack,Armed/Undetermined,Black,illinois
+476,-95.3698028,29.7604267,6/21/2015,shot,49,M,Houston,texas,TRUE,other,Armed/Undetermined,White,texas
+477,-80.9411858,36.2184669,6/22/2015,shot,60,M,Ronda,north carolina,FALSE,attack,Armed/Undetermined,White,north carolina
+478,-121.2810611,38.7071247,6/22/2015,shot,35,M,Citrus Heights,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+479,-82.0105148,33.4734978,6/22/2015,shot,29,M,Augusta,georgia,TRUE,attack,Armed/Undetermined,White,georgia
+480,-79.9958864,40.4406248,6/22/2015,shot,20,M,Pittsburgh,pennsylvania,FALSE,attack,Armed/Undetermined,Black,pennsylvania
+481,-97.9297743,38.0608445,6/23/2015,shot,22,M,Hutchinson,kansas,FALSE,attack,Armed/Undetermined,White,kansas
+482,-97.7972544,32.7592955,6/23/2015,shot,49,M,Weatherford,texas,TRUE,other,Armed/Undetermined,White,texas
+483,-95.9979883,41.2523634,6/23/2015,shot,32,M,Omaha,nebraska,FALSE,attack,Armed/Undetermined,White,nebraska
+484,-76.3868797,37.2103925,6/24/2015,shot,26,M,York County,virginia,FALSE,attack,Armed/Undetermined,Black,virginia
+485,-119.7725868,36.7468422,6/25/2015,shot,61,M,Fresno,california,FALSE,attack,Armed/Undetermined,White,california
+486,-74.2948983,44.8486596,6/26/2015,shot,49,M,Malone,new york,FALSE,attack,Armed/Undetermined,White,new york
+487,-98.4936282,29.4241219,6/26/2015,shot,28,M,San Antonio,texas,FALSE,other,Armed/Undetermined,Hispanic,texas
+488,-94.969956,35.91537,6/27/2015,shot,35,M,Tahlequah,oklahoma,FALSE,attack,Armed/Undetermined,White,oklahoma
+489,-122.6764816,45.5230622,6/28/2015,shot,29,M,Portland,oregon,FALSE,attack,Armed/Undetermined,White,oregon
+490,-74.1040191,43.2217388,6/29/2015,shot,51,M,Edinburg,new york,TRUE,attack,Armed/Undetermined,White,new york
+491,-83.3815429,35.1823171,6/30/2015,shot,52,M,Franklin,north carolina,FALSE,attack,Armed/Undetermined,White,north carolina
+492,-123.1987163,45.2101162,7/1/2015,shot,24,M,McMinnville,oregon,FALSE,attack,Armed/Undetermined,Black,oregon
+493,-123.4568737,42.3447572,7/1/2015,shot,32,M,Josephine County,oregon,FALSE,attack,Armed/Undetermined,White,oregon
+494,-71.0183787,42.0834335,7/2/2015,shot,45,M,Brockton,massachusetts,TRUE,attack,Armed/Undetermined,White,massachusetts
+495,-117.9389526,34.0686208,7/3/2015,shot and Tasered,27,M,West Covina,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+496,-118.1541632,34.6867846,7/3/2015,shot,46,M,Lancaster,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+497,-75.1196199,39.9259463,7/3/2015,shot,33,M,Camden,new jersey,TRUE,attack,Armed/Undetermined,Hispanic,new jersey
+498,-80.1300455,25.790654,7/3/2015,shot,40,M,Miami Beach,florida,FALSE,attack,Armed/Undetermined,White,florida
+499,-97.5164276,35.4675602,7/4/2015,shot,42,M,Oklahoma City,oklahoma,FALSE,attack,Armed/Undetermined,Black,oklahoma
+500,-83.2948922,36.2139814,7/4/2015,shot,37,M,Morristown,tennessee,FALSE,attack,Armed/Undetermined,White,tennessee
+501,-76.4730122,37.0870821,7/4/2015,shot,23,M,Newport News,virginia,FALSE,attack,Armed/Undetermined,Black,virginia
+502,-114.9817213,36.0395247,7/4/2015,shot,36,M,Henderson,nevada,FALSE,attack,Armed/Undetermined,White,nevada
+503,-97.7430608,30.267153,7/5/2015,shot,35,M,Austin,texas,FALSE,attack,Armed/Undetermined,White,texas
+504,-97.7430608,30.267153,7/5/2015,shot and Tasered,25,M,Austin,texas,TRUE,attack,Armed/Undetermined,White,texas
+505,-97.5164276,35.4675602,7/6/2015,shot,20,M,Oklahoma City,oklahoma,FALSE,attack,Armed/Undetermined,White,oklahoma
+506,-71.9662009,44.1670079,7/6/2015,shot,42,M,Bath,new hampshire,TRUE,other,Armed/Undetermined,White,new hampshire
+507,-120.609084,37.3477174,7/6/2015,shot and Tasered,42,M,Atwater,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+508,-118.1339563,33.8536269,7/6/2015,shot and Tasered,31,M,Lakewood,california,TRUE,attack,Armed/Undetermined,White,california
+509,-118.2436849,34.0522342,7/6/2015,shot,29,M,Los Angeles,california,FALSE,attack,Armed/Undetermined,Black,california
+510,-95.3698028,29.7604267,7/7/2015,shot,18,M,Houston,texas,FALSE,attack,Armed/Undetermined,Black,texas
+511,-111.8314724,33.4151843,7/7/2015,shot,33,M,Mesa,arizona,FALSE,other,Armed/Undetermined,White,arizona
+512,-96.7969879,32.7766642,7/7/2015,shot,59,M,Dallas,texas,FALSE,attack,Armed/Undetermined,White,texas
+513,-119.0187125,35.3732921,7/7/2015,shot,47,M,Bakersfield,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+514,-98.1633432,26.3017374,7/7/2015,shot,39,M,Edinburg,texas,TRUE,attack,Armed/Undetermined,Hispanic,texas
+515,-74.4229266,39.3642834,7/7/2015,shot,37,M,Atlantic City,new jersey,FALSE,attack,Armed/Undetermined,Black,new jersey
+516,-94.4446742,39.1097268,7/7/2015,shot,35,M,Sugar Creek,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+517,-85.8649408,37.7030646,7/7/2015,shot,28,M,Elizabethtown,kentucky,FALSE,other,Armed/Undetermined,White,kentucky
+518,-122.8037102,45.487062,7/8/2015,shot,59,M,Beaverton,oregon,FALSE,attack,Armed/Undetermined,White,oregon
+519,-81.4718387,36.4339674,7/8/2015,shot,62,M,Ashe County,north carolina,FALSE,attack,Armed/Undetermined,White,north carolina
+520,-112.8279996,37.8421975,7/9/2015,shot,50,M,Parowan,utah,FALSE,attack,Armed/Undetermined,White,utah
+521,-112.0740373,33.4483771,7/9/2015,shot,68,M,Phoenix,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+522,-87.6297982,41.8781136,7/9/2015,shot,27,M,Chicago,illinois,FALSE,attack,Armed/Undetermined,Black,illinois
+523,-122.1221869,37.1260578,7/9/2015,shot,17,M,Boulder Creek,california,TRUE,attack,Armed/Undetermined,White,california
+524,-118.2436849,34.0522342,7/9/2015,shot and Tasered,38,M,Los Angeles,california,FALSE,attack,Armed/Undetermined,White,california
+525,-94.5785667,39.0997265,7/9/2015,shot,21,M,Kansas City,missouri,FALSE,other,Armed/Undetermined,Black,missouri
+526,-115.1398296,36.1699412,7/10/2015,shot,54,M,Las Vegas,nevada,TRUE,attack,Armed/Undetermined,White,nevada
+527,-83.8601827,33.5967815,7/10/2015,shot,20,M,Covington,georgia,FALSE,attack,Armed/Undetermined,Black,georgia
+528,-87.6297982,41.8781136,7/10/2015,shot,25,M,Chicago,illinois,FALSE,attack,Armed/Undetermined,Black,illinois
+529,-121.5521858,39.0954484,7/11/2015,shot,31,M,Olivehurst,california,FALSE,attack,Armed/Undetermined,White,california
+530,-97.7430608,30.267153,7/12/2015,shot,60,M,Austin,texas,FALSE,attack,Armed/Undetermined,White,texas
+531,-87.8139483,41.8978091,7/12/2015,shot,24,M,River Forest,illinois,FALSE,attack,Armed/Undetermined,White,illinois
+532,-106.313081,42.866632,7/12/2015,shot,27,M,Casper,wyoming,FALSE,attack,Armed/Undetermined,White,wyoming
+533,-84.170196,33.8081608,7/13/2015,shot,20,M,Stone Mountain,georgia,FALSE,attack,Armed/Undetermined,Black,georgia
+534,-122.2719529,41.2082089,7/13/2015,shot,24,M,Dunsmuir,california,FALSE,attack,Armed/Undetermined,White,california
+535,-70.9494938,42.466763,7/13/2015,shot,23,M,Lynn,massachusetts,FALSE,attack,Armed/Undetermined,Hispanic,massachusetts
+536,-118.2436849,34.0522342,7/13/2015,shot and Tasered,41,M,Los Angeles,california,FALSE,other,Armed/Undetermined,White,california
+537,-81.8867451,28.5783313,7/14/2015,shot,20,M,Mascotte,florida,FALSE,attack,Armed/Undetermined,Black,florida
+538,-85.1469835,44.1025148,7/15/2015,shot and Tasered,43,M,Marion,michigan,TRUE,other,Armed/Undetermined,White,michigan
+539,-117.2296717,33.9424658,7/16/2015,shot and Tasered,25,M,Moreno Valley,california,TRUE,other,Armed/Undetermined,Black,california
+540,-88.0075875,43.0494572,7/16/2015,shot,29,M,Wauwatosa,wisconsin,TRUE,other,Armed/Undetermined,Hispanic,wisconsin
+541,-80.4775569,25.4687224,7/16/2015,shot,35,M,Homestead,florida,FALSE,attack,Armed/Undetermined,Black,florida
+542,-94.6274636,39.114053,7/16/2015,shot,30,M,Kansas City,kansas,FALSE,attack,Armed/Undetermined,White,kansas
+543,-86.2555067,31.2826685,7/16/2015,shot,29,M,Opp,alabama,FALSE,attack,Armed/Undetermined,White,alabama
+544,-122.3320708,47.6062095,7/17/2015,shot,27,M,Seattle,washington,FALSE,other,Armed/Undetermined,White,washington
+545,-114.6141315,34.8480597,7/17/2015,shot,50,M,Needles,california,TRUE,attack,Armed/Undetermined,White,california
+546,-97.4974838,25.9017472,7/17/2015,shot,24,M,Brownsville,texas,FALSE,other,Armed/Undetermined,Hispanic,texas
+547,-105.084423,40.5852602,7/18/2015,shot,22,M,Fort Collins,colorado,TRUE,attack,Armed/Undetermined,White,colorado
+548,-112.0740373,33.4483771,7/18/2015,shot,46,M,Phoenix,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+549,-101.0523773,39.3958369,7/18/2015,shot,65,M,Colby,kansas,FALSE,attack,Armed/Undetermined,White,kansas
+550,-94.3840777,29.8202205,7/20/2015,shot,35,M,Winnie,texas,FALSE,attack,Armed/Undetermined,White,texas
+551,-80.1319893,26.1723065,7/21/2015,shot,24,M,Oakland Park,florida,FALSE,other,Armed/Undetermined,White,florida
+552,-81.8853924,31.6074365,7/21/2015,shot,35,M,Jesup,georgia,FALSE,attack,Armed/Undetermined,White,georgia
+553,-89.6384532,42.6011194,7/22/2015,shot,25,M,Monroe,wisconsin,FALSE,attack,Armed/Undetermined,Hispanic,wisconsin
+554,-97.5164276,35.4675602,7/22/2015,shot and Tasered,26,M,Oklahoma City,oklahoma,FALSE,other,Armed/Undetermined,Black,oklahoma
+555,-75.1652215,39.9525839,7/22/2015,shot,27,M,Philadelphia,pennsylvania,FALSE,attack,Armed/Undetermined,Black,pennsylvania
+556,-84.1916069,39.7589478,7/23/2015,shot,34,M,Dayton,ohio,FALSE,attack,Armed/Undetermined,Black,ohio
+557,-78.8866943,33.6890603,7/23/2015,shot,32,M,Myrtle Beach,south carolina,FALSE,attack,Armed/Undetermined,White,south carolina
+558,-105.3822069,42.7596897,7/23/2015,shot,47,M,Douglas,wyoming,FALSE,attack,Armed/Undetermined,White,wyoming
+559,-121.0218887,39.0010079,7/23/2015,shot,44,F,Meadow Vista,california,TRUE,attack,Armed/Undetermined,White,california
+560,-118.3870991,34.1395597,7/24/2015,shot,44,M,Studio City,california,FALSE,attack,Armed/Undetermined,White,california
+561,-80.4331116,36.3293051,7/24/2015,shot and Tasered,30,M,Pinnacle,north carolina,FALSE,other,Armed/Undetermined,White,north carolina
+562,-90.0715323,29.9510658,7/25/2015,shot,60,M,New Orleans,louisiana,TRUE,attack,Armed/Undetermined,White,louisiana
+563,-84.2963123,33.7748275,7/25/2015,shot,50,M,Decatur,georgia,TRUE,attack,Armed/Undetermined,White,georgia
+564,-115.1398296,36.1699412,7/25/2015,shot,36,M,Las Vegas,nevada,FALSE,attack,Armed/Undetermined,Black,nevada
+565,-82.2798227,29.504692,7/25/2015,shot,59,M,Micanopy,florida,FALSE,attack,Armed/Undetermined,Black,florida
+566,-93.7501789,32.5251516,7/26/2015,shot,33,M,Shreveport,louisiana,FALSE,attack,Armed/Undetermined,Black,louisiana
+567,-82.9532036,34.6856555,7/26/2015,shot,19,M,Seneca,south carolina,FALSE,other,Armed/Undetermined,White,south carolina
+568,-81.1831513,34.0859829,7/27/2015,shot,56,M,Irmo,south carolina,FALSE,attack,Armed/Undetermined,White,south carolina
+569,-90.7195348,29.5957696,7/27/2015,shot,45,M,Houma,louisiana,FALSE,attack,Armed/Undetermined,White,louisiana
+570,-105.2705456,40.0149856,7/27/2015,shot and Tasered,22,M,Boulder,colorado,FALSE,other,Armed/Undetermined,White,colorado
+571,-106.7636538,32.3199396,7/29/2015,shot,34,M,Las Cruces,new mexico,FALSE,undetermined,Armed/Undetermined,Hispanic,new mexico
+572,-111.8338359,41.7369803,7/29/2015,shot,53,M,Logan,utah,TRUE,attack,Armed/Undetermined,White,utah
+573,-119.7412875,38.8882398,7/30/2015,shot,48,M,Gardnerville Ranchos,nevada,FALSE,attack,Armed/Undetermined,White,nevada
+574,-122.2719529,41.2082089,7/30/2015,shot,25,M,Dunsmuir,california,FALSE,attack,Armed/Undetermined,White,california
+575,-97.3307658,32.7554883,7/30/2015,shot,30,M,Fort Worth,texas,FALSE,attack,Armed/Undetermined,Hispanic,texas
+576,-118.032844,33.9791793,7/30/2015,shot and Tasered,47,M,Whittier,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+577,-106.6055534,35.0853336,7/31/2015,shot,33,M,Albuquerque,new mexico,FALSE,attack,Armed/Undetermined,Hispanic,new mexico
+578,-104.5230242,33.3942655,7/31/2015,shot,34,M,Roswell,new mexico,FALSE,attack,Armed/Undetermined,White,new mexico
+579,-110.926479,32.2217429,8/1/2015,shot,29,M,Tucson,arizona,FALSE,attack,Armed/Undetermined,Hispanic,arizona
+580,-95.3698028,29.7604267,8/2/2015,shot,63,M,Houston,texas,TRUE,other,Armed/Undetermined,White,texas
+581,-122.2711137,37.8043637,8/3/2015,shot,49,M,Oakland,california,FALSE,attack,Armed/Undetermined,Black,california
+582,-76.5852462,40.2775915,8/3/2015,shot,18,M,Campbelltown,pennsylvania,FALSE,attack,Armed/Undetermined,White,pennsylvania
+583,-77.8824596,37.5643209,8/3/2015,shot,71,M,Powhatan County,virginia,FALSE,attack,Armed/Undetermined,White,virginia
+584,-85.3863599,40.1933767,8/3/2015,shot,35,M,Muncie,indiana,TRUE,attack,Armed/Undetermined,White,indiana
+585,-117.1610966,32.7157305,8/4/2015,shot,55,M,San Diego County,california,TRUE,other,Armed/Undetermined,Hispanic,california
+586,-88.1558785,40.3083672,8/4/2015,shot,31,M,Rantoul,illinois,TRUE,undetermined,Armed/Undetermined,Black,illinois
+587,-85.7584557,38.2526647,8/5/2015,shot,18,M,Louisville,kentucky,FALSE,attack,Armed/Undetermined,White,kentucky
+588,-88.0125865,42.9614039,8/5/2015,shot,51,M,Greenfield,wisconsin,TRUE,other,Armed/Undetermined,White,wisconsin
+589,-156.3319253,20.7983626,8/5/2015,shot,39,M,Maui,hawaii,FALSE,attack,Armed/Undetermined,Black,hawaii
+590,-77.4360481,37.5407246,8/5/2015,shot,20,M,Richmond,virginia,FALSE,attack,Armed/Undetermined,Black,virginia
+591,-85.7169264,35.8572885,8/5/2015,shot,29,M,Antioch,tennessee,TRUE,attack,Armed/Undetermined,White,tennessee
+592,-122.4442906,47.2528768,8/5/2015,shot,40,M,Tacoma,washington,FALSE,attack,Armed/Undetermined,White,washington
+593,-84.6046663,39.0125608,8/6/2015,shot,42,M,Elsmere,kentucky,FALSE,attack,Armed/Undetermined,Hispanic,kentucky
+594,-106.4850217,31.7618778,8/6/2015,shot,22,M,El Paso,texas,FALSE,attack,Armed/Undetermined,Black,texas
+595,-115.1398296,36.1699412,8/7/2015,shot,24,M,Las Vegas,nevada,TRUE,other,Armed/Undetermined,Hispanic,nevada
+596,-119.7725868,36.7468422,8/7/2015,shot,30,M,Fresno,california,TRUE,attack,Armed/Undetermined,White,california
+597,-114.8917978,47.1915937,8/7/2015,shot,53,M,Superior,montana,FALSE,other,Armed/Undetermined,White,montana
+598,-77.3663538,35.612661,8/7/2015,shot,25,M,Greenville,north carolina,FALSE,attack,Armed/Undetermined,Black,north carolina
+599,-118.1937395,33.7700504,8/7/2015,shot,28,M,Long Beach,california,FALSE,attack,Armed/Undetermined,Black,california
+600,-80.1756481,33.0185039,8/8/2015,shot,24,M,Summerville,south carolina,FALSE,attack,Armed/Undetermined,Black,south carolina
+601,-81.1873005,35.262082,8/8/2015,shot,59,M,Gastonia,north carolina,FALSE,attack,Armed/Undetermined,White,north carolina
+602,-117.4260466,47.6587802,8/8/2015,shot,46,M,Spokane,washington,FALSE,attack,Armed/Undetermined,White,washington
+603,-86.158068,39.768403,8/9/2015,shot,15,M,Indianapolis,indiana,FALSE,attack,Armed/Undetermined,Black,indiana
+604,-97.1436254,34.1742611,8/9/2015,shot,41,M,Ardmore,oklahoma,TRUE,attack,Armed/Undetermined,White,oklahoma
+605,-121.8863286,37.3382082,8/9/2015,shot,22,M,San Jose,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+606,-111.789027,33.3528264,8/10/2015,shot,24,M,Gilbert,arizona,FALSE,other,Armed/Undetermined,White,arizona
+607,-116.553465,48.276577,8/11/2015,shot,34,M,Sandpoint,idaho,FALSE,attack,Armed/Undetermined,White,idaho
+608,-97.1466695,31.549333,8/11/2015,shot and Tasered,48,M,Waco,texas,FALSE,other,Armed/Undetermined,White,texas
+609,-102.3676431,31.8456816,8/12/2015,shot,24,M,Odessa,texas,FALSE,attack,Armed/Undetermined,White,texas
+610,-122.2711137,37.8043637,8/12/2015,shot,27,M,Oakland,california,FALSE,attack,Armed/Undetermined,Black,california
+611,-118.2436849,34.0522342,8/12/2015,shot and Tasered,30,F,Los Angeles,california,FALSE,other,Armed/Undetermined,Black,california
+612,-116.9719684,33.7475203,8/12/2015,shot,27,M,Hemet,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+613,-83.555212,41.6639383,8/12/2015,shot,27,M,Toledo,ohio,FALSE,attack,Armed/Undetermined,Black,ohio
+614,-103.1360403,32.7026116,8/12/2015,shot,49,M,Hobbs,new mexico,FALSE,undetermined,Armed/Undetermined,White,new mexico
+615,-74.1502007,40.5795317,8/14/2015,shot,38,M,Staten Island,new york,FALSE,attack,Armed/Undetermined,Black,new york
+616,-98.7319703,29.7946641,8/14/2015,shot,26,M,Boerne,texas,FALSE,attack,Armed/Undetermined,Hispanic,texas
+617,-72.4334173,41.7689878,8/14/2015,shot and Tasered,53,M,Bolton,connecticut,FALSE,attack,Armed/Undetermined,White,connecticut
+618,-122.0363496,37.36883,8/15/2015,shot,23,M,Sunnyvale,california,FALSE,attack,Armed/Undetermined,Black,california
+619,-117.8125674,35.6468991,8/15/2015,shot,34,M,Inyokern,california,FALSE,attack,Armed/Undetermined,Black,california
+620,-119.7674034,39.1637984,8/15/2015,shot,30,M,Carson City,nevada,FALSE,attack,Armed/Undetermined,White,nevada
+621,-121.8863286,37.3382082,8/16/2015,shot,29,M,San Jose,california,FALSE,other,Armed/Undetermined,Hispanic,california
+622,-99.1403189,30.0474332,8/16/2015,shot,47,M,Kerrville,texas,FALSE,attack,Armed/Undetermined,White,texas
+623,-95.3698028,29.7604267,8/17/2015,shot,35,M,Houston,texas,FALSE,attack,Armed/Undetermined,Black,texas
+624,-90.1994042,38.6270025,8/19/2015,shot,18,M,St. Louis,missouri,FALSE,attack,Armed/Undetermined,Black,missouri
+625,-83.2827093,42.5793103,8/19/2015,shot,24,M,Bloomfield Township,michigan,FALSE,attack,Armed/Undetermined,Black,michigan
+626,-118.2022917,48.1171945,8/19/2015,shot,29,M,Hunters,washington,TRUE,attack,Armed/Undetermined,White,washington
+627,-82.8373558,35.5328838,8/19/2015,shot,44,M,Canton,north carolina,TRUE,attack,Armed/Undetermined,White,north carolina
+628,-81.6395732,39.5478509,8/20/2015,shot,19,M,Beverly,ohio,TRUE,attack,Armed/Undetermined,White,ohio
+629,-117.6508876,34.0633443,8/20/2015,shot,17,M,Ontario,california,TRUE,attack,Armed/Undetermined,Hispanic,california
+630,-122.8293192,47.3352273,8/21/2015,shot,57,M,Grapeview,washington,TRUE,attack,Armed/Undetermined,White,washington
+631,-75.9413327,39.6001132,8/21/2015,shot,30,M,North East,maryland,FALSE,attack,Armed/Undetermined,White,maryland
+632,-78.5097228,35.9798734,8/21/2015,shot,38,M,Wake Forest,north carolina,FALSE,other,Armed/Undetermined,White,north carolina
+633,-93.6221657,47.2640071,8/22/2015,shot,31,M,Cohasset,minnesota,FALSE,attack,Armed/Undetermined,White,minnesota
+634,-73.6917851,42.7284117,8/22/2015,shot and Tasered,39,M,Troy,new york,FALSE,attack,Armed/Undetermined,Black,new york
+635,-119.0187125,35.3732921,8/22/2015,shot,29,M,Bakersfield,california,FALSE,undetermined,Armed/Undetermined,White,california
+636,-97.330053,37.6871761,8/22/2015,shot,26,M,Wichita,kansas,FALSE,attack,Armed/Undetermined,White,kansas
+637,-77.1807842,38.2664512,8/22/2015,shot,64,M,King George,virginia,FALSE,other,Armed/Undetermined,White,virginia
+638,-81.655651,30.3321838,8/23/2015,shot,36,M,Jacksonville,florida,TRUE,attack,Armed/Undetermined,White,florida
+639,-86.4958219,34.3181497,8/23/2015,shot,36,M,Arab,alabama,FALSE,attack,Armed/Undetermined,White,alabama
+640,-74.1371832,40.0578384,8/23/2015,shot,21,M,Brick Township,new jersey,FALSE,attack,Armed/Undetermined,White,new jersey
+641,-79.9719831,35.914581,8/23/2015,shot,53,M,Archdale,north carolina,FALSE,attack,Armed/Undetermined,Black,north carolina
+642,-115.1398296,36.1699412,8/23/2015,shot,57,M,Las Vegas,nevada,FALSE,attack,Armed/Undetermined,White,nevada
+643,-105.937799,35.6869752,8/25/2015,shot,30,M,Santa Fe,new mexico,FALSE,attack,Armed/Undetermined,Hispanic,new mexico
+644,-75.6054882,39.9606643,8/25/2015,shot,34,M,West Chester,pennsylvania,FALSE,attack,Armed/Undetermined,Black,pennsylvania
+645,-82.3023128,28.0614065,8/25/2015,shot,53,M,Thonotosassa,florida,FALSE,attack,Armed/Undetermined,White,florida
+646,-112.0740373,33.4483771,8/25/2015,shot,45,M,Phoenix,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+647,-80.1917902,25.7616798,8/25/2015,shot,22,M,Miami,florida,FALSE,attack,Armed/Undetermined,Hispanic,florida
+648,-86.6199957,36.3047735,8/26/2015,shot,22,M,Hendersonville,tennessee,TRUE,attack,Armed/Undetermined,White,tennessee
+649,-85.3096801,35.0456297,8/26/2015,shot,46,M,Chattanooga,tennessee,FALSE,attack,Armed/Undetermined,White,tennessee
+650,-111.9391031,40.6096698,8/26/2015,shot,27,M,West Jordan,utah,TRUE,attack,Armed/Undetermined,White,utah
+651,-96.7969879,32.7766642,8/27/2015,shot and Tasered,42,M,Dallas,texas,FALSE,attack,Armed/Undetermined,Black,texas
+652,-122.2711137,37.8043637,8/27/2015,shot,30,M,Oakland,california,FALSE,attack,Armed/Undetermined,Black,california
+653,-117.1610838,32.715738,8/27/2015,shot,54,M,San Diego,california,FALSE,other,Armed/Undetermined,White,california
+654,-118.2436849,34.0522342,8/27/2015,shot,29,M,Los Angeles,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+655,-98.4936282,29.4241219,8/28/2015,shot,41,M,San Antonio,texas,TRUE,undetermined,Armed/Undetermined,Hispanic,texas
+656,-111.654923,40.114955,8/28/2015,shot,28,M,Spanish Fork,utah,TRUE,attack,Armed/Undetermined,White,utah
+657,-94.7404891,32.5007037,8/28/2015,shot,23,M,Longview,texas,FALSE,attack,Armed/Undetermined,White,texas
+658,-115.1175013,36.1988592,8/29/2015,shot,25,M,North Las Vegas,nevada,FALSE,attack,Armed/Undetermined,Black,nevada
+659,-98.4936282,29.4241219,8/29/2015,shot,NA,M,San Antonio,texas,FALSE,other,Armed/Undetermined,White,texas
+660,-96.76697,35.9850639,8/30/2015,shot,20,M,Cushing,oklahoma,FALSE,attack,Armed/Undetermined,White,oklahoma
+661,-110.926479,32.2217429,8/30/2015,shot,40,M,Tucson,arizona,FALSE,attack,Armed/Undetermined,Hispanic,arizona
+662,-105.0749801,40.3977612,8/31/2015,shot,45,M,Loveland,colorado,FALSE,attack,Armed/Undetermined,White,colorado
+663,-81.2223195,37.2698395,9/1/2015,shot,33,M,Bluefield,west virginia,FALSE,attack,Armed/Undetermined,Black,west virginia
+664,-81.4401129,41.3125552,9/1/2015,shot,76,M,Twinsburg,ohio,FALSE,attack,Armed/Undetermined,White,ohio
+665,-104.4032962,32.8423345,9/1/2015,shot,47,M,Artesia,new mexico,FALSE,attack,Armed/Undetermined,White,new mexico
+666,-112.4685025,34.5400242,9/2/2015,shot,45,M,Prescott,arizona,TRUE,attack,Armed/Undetermined,White,arizona
+667,-98.0297992,43.7094283,9/4/2015,shot,37,M,Mitchell,south dakota,TRUE,attack,Armed/Undetermined,White,south dakota
+668,-86.6199914,38.5489431,9/4/2015,shot and Tasered,49,M,French Lick,indiana,FALSE,attack,Armed/Undetermined,Hispanic,indiana
+669,-123.7039941,41.1877221,9/4/2015,shot,27,M,Weitchpec,california,FALSE,attack,Armed/Undetermined,White,california
+670,-97.6836384,32.9659566,9/4/2015,shot,36,M,Springtown,texas,FALSE,attack,Armed/Undetermined,White,texas
+671,-71.4948322,42.8678693,9/4/2015,shot,23,M,Merrimack,new hampshire,TRUE,other,Armed/Undetermined,White,new hampshire
+672,-78.898619,35.9940329,9/5/2015,shot,21,M,Durham,north carolina,TRUE,attack,Armed/Undetermined,Black,north carolina
+673,-117.6508876,34.0633443,9/5/2015,shot,32,M,Ontario,california,TRUE,other,Armed/Undetermined,Hispanic,california
+674,-75.977985,36.8529263,9/5/2015,shot,35,M,Virginia Beach,virginia,FALSE,attack,Armed/Undetermined,Black,virginia
+675,-80.2377078,25.7776438,9/6/2015,shot,59,M,Little Havana,florida,FALSE,attack,Armed/Undetermined,Hispanic,florida
+676,-93.7501789,32.5251516,9/6/2015,shot,28,M,Shreveport,louisiana,TRUE,attack,Armed/Undetermined,Black,louisiana
+677,-103.1360403,32.7026116,9/6/2015,shot,45,M,Hobbs,new mexico,FALSE,attack,Armed/Undetermined,White,new mexico
+678,-119.7725868,36.7468422,9/7/2015,shot,45,M,Fresno,california,FALSE,other,Armed/Undetermined,Hispanic,california
+679,-88.0701033,44.4822137,9/9/2015,shot,25,M,Ashwaubenon,wisconsin,FALSE,attack,Armed/Undetermined,White,wisconsin
+680,-94.5785667,39.0997265,9/9/2015,shot,37,M,Kansas City,missouri,TRUE,other,Armed/Undetermined,Black,missouri
+681,-86.158068,39.768403,9/10/2015,shot,29,M,Indianapolis,indiana,FALSE,attack,Armed/Undetermined,Black,indiana
+682,-121.2722194,38.1341477,9/10/2015,shot,32,M,Lodi,california,FALSE,attack,Armed/Undetermined,White,california
+683,-118.1331593,33.9401088,9/10/2015,shot,41,M,Downey,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+684,-75.3557457,39.849557,9/11/2015,shot,31,M,Chester,pennsylvania,FALSE,attack,Armed/Undetermined,White,pennsylvania
+685,-105.0866504,39.9205411,9/11/2015,shot,44,M,Broomfield,colorado,FALSE,attack,Armed/Undetermined,White,colorado
+686,-86.2516406,33.1731716,9/12/2015,shot,23,M,Sylacauga,alabama,FALSE,undetermined,Armed/Undetermined,White,alabama
+687,-83.9419784,35.9874629,9/12/2015,shot,45,M,West Knox,tennessee,FALSE,attack,Armed/Undetermined,White,tennessee
+688,-91.8382273,41.4641806,9/13/2015,shot,39,M,Wellman,iowa,TRUE,attack,Armed/Undetermined,White,iowa
+689,-95.7697131,34.9334298,9/13/2015,shot,67,M,McAlester,oklahoma,TRUE,attack,Armed/Undetermined,Black,oklahoma
+690,-95.3988291,29.0246906,9/13/2015,shot,29,M,Clute,texas,FALSE,attack,Armed/Undetermined,White,texas
+691,-87.8819594,37.1092162,9/14/2015,shot,25,M,Princeton,kentucky,FALSE,attack,Armed/Undetermined,Black,kentucky
+692,-89.9635162,29.942783,9/15/2015,shot,21,M,Chalmette,louisiana,FALSE,attack,Armed/Undetermined,Black,louisiana
+693,-118.442425,34.227617,9/15/2015,shot,32,M,Panorama City,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+694,-80.1917902,25.7616798,9/15/2015,shot,51,M,Miami,florida,TRUE,undetermined,Armed/Undetermined,Hispanic,florida
+695,-118.2436849,34.0522342,9/15/2015,shot,39,M,Los Angeles,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+696,-92.4451371,31.3112936,9/15/2015,shot,27,M,Alexandria,louisiana,FALSE,other,Armed/Undetermined,Black,louisiana
+697,-103.7651984,44.3522065,9/16/2015,shot,31,M,Lead,south dakota,TRUE,attack,Armed/Undetermined,White,south dakota
+698,-84.4847316,43.8822464,9/17/2015,shot,50,M,Beaverton,michigan,FALSE,attack,Armed/Undetermined,White,michigan
+699,-84.4138259,37.4042496,9/17/2015,shot,NA,M,Brodhead,kentucky,FALSE,attack,Armed/Undetermined,White,kentucky
+700,-87.3877899,36.0770048,9/18/2015,shot,47,M,Dickson,tennessee,FALSE,undetermined,Armed/Undetermined,White,tennessee
+701,-89.7811745,30.2751945,9/19/2015,shot,46,M,Slidell,louisiana,FALSE,attack,Armed/Undetermined,White,louisiana
+702,-88.2461183,31.3422346,9/19/2015,shot,57,M,Washington County,alabama,TRUE,attack,Armed/Undetermined,White,alabama
+703,-78.8689155,38.4495688,9/20/2015,shot,23,M,Harrisonburg,virginia,FALSE,attack,Armed/Undetermined,White,virginia
+704,-85.7769238,39.5214373,9/20/2015,shot,56,M,Shelbyville,indiana,FALSE,attack,Armed/Undetermined,White,indiana
+705,-96.7969879,32.7766642,9/21/2015,shot,24,M,Dallas,texas,TRUE,attack,Armed/Undetermined,Hispanic,texas
+706,-121.8482855,36.6171819,9/21/2015,shot,27,M,Sand City,california,FALSE,attack,Armed/Undetermined,White,california
+707,-121.8482855,36.6171819,9/21/2015,shot,23,F,Sand City,california,FALSE,attack,Armed/Undetermined,White,california
+708,-81.420901,29.1872023,9/21/2015,shot,26,M,Barberville,florida,FALSE,attack,Armed/Undetermined,White,florida
+709,-81.7886906,28.0652975,9/21/2015,shot,34,M,Auburndale,florida,FALSE,other,Armed/Undetermined,Hispanic,florida
+710,-122.2711137,37.8043637,9/22/2015,shot,32,M,Oakland,california,FALSE,attack,Armed/Undetermined,Black,california
+711,-86.482172,30.5168639,9/22/2015,shot,33,M,Niceville,florida,TRUE,attack,Armed/Undetermined,White,florida
+712,-122.4053018,40.4505502,9/22/2015,shot,55,M,Happy Valley,california,TRUE,attack,Armed/Undetermined,White,california
+713,-96.6397822,33.1972465,9/23/2015,shot,35,M,McKinney,texas,FALSE,attack,Armed/Undetermined,White,texas
+714,-81.2078164,36.6721195,9/23/2015,shot,45,M,Grayson County,virginia,FALSE,attack,Armed/Undetermined,White,virginia
+715,-75.5397878,39.7390721,9/23/2015,shot,28,M,Wilmington,delaware,TRUE,undetermined,Armed/Undetermined,Black,delaware
+716,-80.1917902,25.7616798,9/24/2015,shot,42,M,Miami,florida,FALSE,attack,Armed/Undetermined,Hispanic,florida
+717,-104.7008056,38.682219,9/24/2015,shot,17,M,Fountain,colorado,FALSE,attack,Armed/Undetermined,White,colorado
+718,-87.6297982,41.8781136,9/25/2015,shot and Tasered,33,M,Chicago,illinois,FALSE,other,Armed/Undetermined,Black,illinois
+719,-112.5868398,34.4258586,9/25/2015,shot,45,M,Wilhoit,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+720,-91.1403196,30.4582829,9/26/2015,shot,46,M,Baton Rouge,louisiana,FALSE,attack,Armed/Undetermined,Black,louisiana
+721,-103.3485543,32.9440077,9/26/2015,shot,23,M,Lovington,new mexico,FALSE,attack,Armed/Undetermined,Hispanic,new mexico
+722,-118.2436849,34.0522342,9/27/2015,shot,37,F,Los Angeles,california,TRUE,other,Armed/Undetermined,Hispanic,california
+723,-85.2860676,34.9831309,9/27/2015,shot,43,M,Rossville,georgia,FALSE,attack,Armed/Undetermined,White,georgia
+724,-97.2872402,33.1828974,9/27/2015,shot,40,M,Ponder,texas,FALSE,attack,Armed/Undetermined,Hispanic,texas
+725,NA,NA,9/28/2015,shot,59,M,San Ysidro,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+726,-81.1881557,37.7781702,9/30/2015,shot,28,M,Beckley,west virginia,FALSE,attack,Armed/Undetermined,Black,west virginia
+727,-110.2772856,31.5455001,10/2/2015,shot,28,M,Sierra Vista,arizona,FALSE,attack,Armed/Undetermined,Hispanic,arizona
+728,-117.3703235,34.1064001,10/2/2015,shot and Tasered,26,M,Rialto,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+729,-122.8670454,45.4942838,10/2/2015,shot,55,F,Aloha,oregon,TRUE,other,Armed/Undetermined,White,oregon
+730,-87.6675292,34.7448112,10/4/2015,shot,27,M,Muscle Shoals,alabama,TRUE,attack,Armed/Undetermined,White,alabama
+731,-87.6297982,41.8781136,10/4/2015,shot,31,M,Chicago,illinois,FALSE,attack,Armed/Undetermined,Black,illinois
+732,-97.1705678,32.8234621,10/5/2015,shot,51,M,Hurst,texas,FALSE,attack,Armed/Undetermined,White,texas
+733,-74.2846022,40.5575986,10/5/2015,shot,50,M,Woodbridge,new jersey,FALSE,attack,Armed/Undetermined,White,new jersey
+734,-97.3967019,35.4495065,10/5/2015,shot,18,M,Midwest City,oklahoma,FALSE,attack,Armed/Undetermined,Black,oklahoma
+735,-80.0533746,26.7153424,10/7/2015,shot,46,M,West Palm Beach,florida,FALSE,attack,Armed/Undetermined,Hispanic,florida
+736,-76.8610462,39.2037144,10/9/2015,shot,19,M,Columbia,maryland,FALSE,other,Armed/Undetermined,Black,maryland
+737,-70.880049,42.5584283,10/10/2015,shot,49,M,Beverly,massachusetts,TRUE,attack,Armed/Undetermined,White,massachusetts
+738,-72.3845301,41.2960159,10/10/2015,shot,31,M,Old Saybrook,connecticut,FALSE,attack,Armed/Undetermined,White,connecticut
+739,-117.6467917,34.433237,10/10/2015,shot,38,M,Pinion Hills,california,TRUE,other,Armed/Undetermined,White,california
+740,-85.2515482,43.443107,10/10/2015,shot,40,M,Cato Township,michigan,FALSE,attack,Armed/Undetermined,White,michigan
+741,-88.0747875,41.801141,10/10/2015,shot and Tasered,35,M,Lisle,illinois,FALSE,undetermined,Armed/Undetermined,Hispanic,illinois
+742,-117.2897652,34.1083449,10/11/2015,shot,34,M,San Bernardino,california,FALSE,undetermined,Armed/Undetermined,Hispanic,california
+743,-82.2962268,34.9203946,10/11/2015,shot,23,M,Taylors,south carolina,FALSE,attack,Armed/Undetermined,Black,south carolina
+744,-102.498757,31.8423472,10/11/2015,shot,43,M,West Odessa,texas,FALSE,other,Armed/Undetermined,Hispanic,texas
+745,-98.3959291,34.6035669,10/12/2015,shot,NA,M,Lawton,oklahoma,FALSE,attack,Armed/Undetermined,Black,oklahoma
+746,-90.4406506,31.5790588,10/12/2015,shot,31,M,Brookhaven,mississippi,FALSE,attack,Armed/Undetermined,White,mississippi
+747,-84.7999382,34.1650972,10/14/2015,shot,27,M,Cartersville,georgia,FALSE,attack,Armed/Undetermined,White,georgia
+748,-81.7948103,26.1420358,10/14/2015,shot,46,F,Naples,florida,TRUE,attack,Armed/Undetermined,White,florida
+749,-116.2155619,33.7205771,10/14/2015,shot,18,M,Indio,california,FALSE,other,Armed/Undetermined,Hispanic,california
+750,-87.3247077,31.5279399,10/14/2015,shot,57,M,Monroeville,alabama,FALSE,attack,Armed/Undetermined,Black,alabama
+751,-80.1917902,25.7616798,10/15/2015,shot,15,M,Miami,florida,FALSE,attack,Armed/Undetermined,Hispanic,florida
+752,-82.9987942,39.9611755,10/15/2015,shot,25,M,Columbus,ohio,FALSE,attack,Armed/Undetermined,Black,ohio
+753,-115.1398296,36.1699412,10/15/2015,shot,50,F,Las Vegas,nevada,TRUE,attack,Armed/Undetermined,White,nevada
+754,-81.7229086,41.4047742,10/15/2015,shot,31,M,Parma,ohio,FALSE,attack,Armed/Undetermined,White,ohio
+755,-122.2087353,47.6814875,10/15/2015,shot,35,M,Kirkland,washington,FALSE,attack,Armed/Undetermined,White,washington
+756,-122.4194155,37.7749295,10/15/2015,shot,27,M,San Francisco,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+757,-95.3698028,29.7604267,10/15/2015,shot,20,M,Houston,texas,FALSE,attack,Armed/Undetermined,Black,texas
+758,-88.4272627,33.4956744,10/16/2015,shot,33,M,Columbus,mississippi,FALSE,undetermined,Armed/Undetermined,Black,mississippi
+759,-120.9968782,37.6390972,10/17/2015,shot,22,M,Modesto,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+760,-76.727745,39.9625984,10/17/2015,shot and Tasered,28,M,York,pennsylvania,TRUE,other,Armed/Undetermined,Black,pennsylvania
+761,-80.1386547,26.8233946,10/18/2015,shot,31,M,Palm Beach Gardens,florida,FALSE,undetermined,Armed/Undetermined,Black,florida
+762,-119.7725868,36.7468422,10/18/2015,shot,28,M,Fresno,california,TRUE,attack,Armed/Undetermined,White,california
+763,-118.2436849,34.0522342,10/19/2015,shot,53,M,Los Angeles,california,FALSE,attack,Armed/Undetermined,Black,california
+764,-85.7584557,38.2526647,10/20/2015,shot,30,M,Louisville,kentucky,FALSE,attack,Armed/Undetermined,White,kentucky
+765,-117.1610838,32.715738,10/20/2015,shot,39,M,San Diego,california,FALSE,attack,Armed/Undetermined,Black,california
+766,-107.2528069,33.1284047,10/20/2015,shot,40,M,Truth or Consequences,new mexico,FALSE,attack,Armed/Undetermined,Hispanic,new mexico
+767,-90.0656311,30.3582506,10/20/2015,shot,30,M,Mandeville,louisiana,FALSE,attack,Armed/Undetermined,White,louisiana
+768,-91.6656232,41.9778795,10/20/2015,shot,21,M,Cedar Rapids,iowa,FALSE,attack,Armed/Undetermined,White,iowa
+769,-115.4988834,32.6789476,10/21/2015,shot,35,M,Calexico,california,FALSE,other,Armed/Undetermined,Hispanic,california
+770,-85.6447492,42.8694731,10/21/2015,shot,47,M,Kentwood,michigan,TRUE,attack,Armed/Undetermined,White,michigan
+771,-93.7501789,32.5251516,10/22/2015,shot,38,M,Shreveport,louisiana,FALSE,attack,Armed/Undetermined,Black,louisiana
+772,-121.3282843,38.617127,10/22/2015,shot,36,M,Carmichael,california,FALSE,attack,Armed/Undetermined,Black,california
+773,-82.8823826,37.2726002,10/22/2015,shot,53,M,Pine Top,kentucky,FALSE,other,Armed/Undetermined,White,kentucky
+774,-117.3333772,34.0158479,10/24/2015,shot,34,M,Highgrove,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+775,-81.9495331,26.5628537,10/24/2015,shot,NA,M,Cape Coral,florida,FALSE,attack,Armed/Undetermined,Black,florida
+776,-116.4668036,33.7805388,10/24/2015,shot,30,M,Cathedral City,california,FALSE,undetermined,Armed/Undetermined,Black,california
+777,-82.0131924,39.9403453,10/24/2015,shot,28,M,Zanesville,ohio,TRUE,attack,Armed/Undetermined,White,ohio
+778,-88.1050853,42.5775187,10/24/2015,shot,47,M,Paddock Lake,wisconsin,FALSE,attack,Armed/Undetermined,White,wisconsin
+779,-151.2583333,60.5544444,10/24/2015,shot,49,M,Kenai Peninsula,alaska,FALSE,attack,Armed/Undetermined,White,alaska
+780,-84.5049279,34.5092562,10/25/2015,shot,36,M,Talking Rock,georgia,FALSE,attack,Armed/Undetermined,White,georgia
+781,-77.4105409,39.4142688,10/26/2015,shot,45,M,Frederick,maryland,FALSE,other,Armed/Undetermined,Black,maryland
+782,-77.0368707,38.9071923,10/26/2015,shot,21,F,Washington,district of columbia,FALSE,attack,Armed/Undetermined,Black,district of columbia
+783,-81.0998342,32.0835407,10/27/2015,shot,25,M,Savannah,georgia,FALSE,attack,Armed/Undetermined,Black,georgia
+784,-88.391154,34.0701074,10/28/2015,shot,57,M,Smithville,mississippi,FALSE,attack,Armed/Undetermined,White,mississippi
+785,-81.655651,30.3321838,10/28/2015,shot,34,M,Jacksonville,florida,FALSE,attack,Armed/Undetermined,Black,florida
+786,-123.0350963,44.9428975,10/28/2015,shot,35,M,Salem,oregon,FALSE,attack,Armed/Undetermined,White,oregon
+787,-123.9226385,45.9931636,10/28/2015,shot,36,M,Seaside,oregon,FALSE,attack,Armed/Undetermined,White,oregon
+788,-82.9987942,39.9611755,10/29/2015,shot,NA,M,Columbus,ohio,FALSE,other,Armed/Undetermined,Black,ohio
+789,-87.5519628,35.5478513,10/29/2015,shot,18,M,Hohenwald,tennessee,FALSE,attack,Armed/Undetermined,White,tennessee
+790,-85.3705186,36.7903399,10/30/2015,shot,62,M,Burkesville,kentucky,FALSE,attack,Armed/Undetermined,White,kentucky
+791,-96.5991593,32.7667955,10/30/2015,shot,29,M,Mesquite,texas,FALSE,attack,Armed/Undetermined,Hispanic,texas
+792,-95.3698028,29.7604267,10/30/2015,shot,25,M,Houston,texas,FALSE,other,Armed/Undetermined,Black,texas
+793,-95.2944129,36.1150237,10/30/2015,shot and Tasered,30,M,Norwood,oklahoma,FALSE,attack,Armed/Undetermined,White,oklahoma
+794,-104.8213634,38.8338816,10/31/2015,shot,33,M,Colorado Springs,colorado,FALSE,attack,Armed/Undetermined,White,colorado
+795,-94.3692926,44.8925483,11/1/2015,shot,49,M,Hutchinson,minnesota,FALSE,attack,Armed/Undetermined,White,minnesota
+796,-124.1636729,40.8020712,11/1/2015,shot,20,M,Eureka,california,FALSE,attack,Armed/Undetermined,White,california
+797,-116.4381985,44.7298876,11/1/2015,shot,62,M,Council,idaho,FALSE,undetermined,Armed/Undetermined,White,idaho
+798,-77.0368707,38.9071923,11/2/2015,shot,62,M,Washington,district of columbia,FALSE,attack,Armed/Undetermined,Black,district of columbia
+799,-93.2922989,37.2089572,11/4/2015,shot,30,M,Springfield,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+800,-95.3698028,29.7604267,11/4/2015,shot,57,M,Houston,texas,FALSE,attack,Armed/Undetermined,Black,texas
+801,-79.9558968,39.629526,11/5/2015,shot,48,M,Morgantown,west virginia,FALSE,attack,Armed/Undetermined,White,west virginia
+802,-96.3952963,36.4142357,11/5/2015,shot,20,M,Hominy,oklahoma,TRUE,attack,Armed/Undetermined,White,oklahoma
+803,-90.3351164,38.538664,11/5/2015,shot,30,M,Lakeshire,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+804,-80.0325867,32.9810059,11/5/2015,shot,36,F,Goose Creek,south carolina,TRUE,attack,Armed/Undetermined,White,south carolina
+805,-122.6764816,45.5230622,11/6/2015,shot,51,M,Portland,oregon,TRUE,attack,Armed/Undetermined,White,oregon
+806,-115.1398296,36.1699412,11/6/2015,shot,55,M,Las Vegas,nevada,FALSE,other,Armed/Undetermined,White,nevada
+807,-80.0767266,34.9682097,11/6/2015,shot,48,M,Wadesboro,north carolina,FALSE,undetermined,Armed/Undetermined,White,north carolina
+808,-81.9320482,34.9495672,11/9/2015,shot,20,M,Spartanburg,south carolina,FALSE,attack,Armed/Undetermined,Black,south carolina
+809,-99.4803241,27.5305671,11/9/2015,shot,25,M,North Laredo,texas,TRUE,attack,Armed/Undetermined,Hispanic,texas
+810,-80.7214417,38.7023371,11/9/2015,shot,26,M,Braxton County,west virginia,FALSE,attack,Armed/Undetermined,White,west virginia
+811,-121.8863286,37.3382082,11/9/2015,shot,45,M,San Jose,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+812,-118.2436849,34.0522342,11/9/2015,shot and Tasered,35,M,Los Angeles,california,FALSE,other,Armed/Undetermined,Hispanic,california
+813,-104.8213634,38.8338816,11/10/2015,shot,63,M,Colorado Springs,colorado,FALSE,attack,Armed/Undetermined,White,colorado
+814,-121.8374777,39.7284944,11/10/2015,shot,34,M,Chico,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+815,-104.8205283,39.9852617,11/10/2015,shot,36,M,Brighton,colorado,FALSE,other,Armed/Undetermined,Hispanic,colorado
+816,-112.6389244,45.2166324,11/10/2015,shot,22,M,Dillon,montana,FALSE,attack,Armed/Undetermined,White,montana
+817,-106.6055534,35.0853336,11/11/2015,shot,31,M,Albuquerque,new mexico,FALSE,other,Armed/Undetermined,Hispanic,new mexico
+818,-122.4194155,37.7749295,11/11/2015,shot,25,M,San Francisco,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+819,-81.7195533,33.5604168,11/11/2015,shot,57,M,Aiken,south carolina,FALSE,attack,Armed/Undetermined,White,south carolina
+820,-76.6121893,39.2903848,11/11/2015,shot,32,M,Baltimore,maryland,FALSE,attack,Armed/Undetermined,Black,maryland
+821,-122.0363496,37.36883,11/12/2015,shot,42,M,Sunnyvale,california,FALSE,other,Armed/Undetermined,Black,california
+822,-88.864698,35.9969735,11/13/2015,shot,52,M,Gibson County,tennessee,FALSE,attack,Armed/Undetermined,White,tennessee
+823,-117.4854802,33.9971974,11/13/2015,shot,25,M,Jurupa Valley,california,FALSE,undetermined,Armed/Undetermined,Hispanic,california
+824,-81.3906678,32.173813,11/13/2015,shot,25,M,Eden,georgia,FALSE,attack,Armed/Undetermined,White,georgia
+825,-117.4854802,33.9971974,11/14/2015,shot,31,M,Jurupa Valley,california,FALSE,other,Armed/Undetermined,Hispanic,california
+826,-122.2711137,37.8043637,11/15/2015,shot,39,M,Oakland,california,FALSE,attack,Armed/Undetermined,Black,california
+827,-78.9728056,35.1679395,11/15/2015,shot and Tasered,32,M,Spring Lake,north carolina,FALSE,attack,Armed/Undetermined,White,north carolina
+828,-75.1749671,40.028521,11/15/2015,shot,16,M,Germantown,pennsylvania,FALSE,attack,Armed/Undetermined,Black,pennsylvania
+829,-95.9832577,31.2152685,11/16/2015,shot,28,M,Leon County,texas,FALSE,undetermined,Armed/Undetermined,White,texas
+830,-84.981754,34.8033566,11/16/2015,shot,25,M,Whitfield County,georgia,FALSE,other,Armed/Undetermined,White,georgia
+831,-97.7972544,32.7592955,11/17/2015,shot,41,M,Weatherford,texas,FALSE,undetermined,Armed/Undetermined,White,texas
+832,-80.1917902,25.7616798,11/17/2015,shot,28,M,Miami,florida,TRUE,attack,Armed/Undetermined,Black,florida
+833,-81.0739827,33.9657091,11/17/2015,shot,21,M,Cayce,south carolina,FALSE,attack,Armed/Undetermined,Black,south carolina
+834,-97.7972544,32.7592955,11/17/2015,shot,30,M,Weatherford,texas,FALSE,other,Armed/Undetermined,Black,texas
+835,-74.3572646,39.6108492,11/17/2015,shot,47,M,Little Egg Harbor,new jersey,TRUE,attack,Armed/Undetermined,White,new jersey
+836,-80.2503271,25.9023168,11/18/2015,shot,25,M,Opa-Locka,florida,FALSE,other,Armed/Undetermined,Black,florida
+837,-86.7416374,42.0320742,11/18/2015,shot,44,M,Berrien County,michigan,FALSE,attack,Armed/Undetermined,Black,michigan
+838,-82.345189,27.4799195,11/19/2015,shot,34,M,Manatee,florida,FALSE,attack,Armed/Undetermined,Black,florida
+839,-80.3256056,27.4467056,11/19/2015,shot,27,M,Fort Pierce,florida,FALSE,attack,Armed/Undetermined,Black,florida
+840,-77.0368707,38.9071923,11/19/2015,shot,34,M,Washington,district of columbia,FALSE,other,Armed/Undetermined,Black,district of columbia
+841,-84.8984775,33.9142037,11/20/2015,shot,39,M,Paulding County,georgia,TRUE,attack,Armed/Undetermined,White,georgia
+842,-117.435048,34.0922335,11/22/2015,shot,47,M,Fontana,california,FALSE,attack,Armed/Undetermined,White,california
+843,-119.8138027,39.5296329,11/22/2015,shot,45,M,Reno,nevada,FALSE,attack,Armed/Undetermined,White,nevada
+844,-104.990251,39.7392358,11/22/2015,shot,28,M,Denver,colorado,FALSE,attack,Armed/Undetermined,Hispanic,colorado
+845,NA,NA,11/23/2015,shot and Tasered,49,M,Corpus Christi,texas,FALSE,other,Armed/Undetermined,Hispanic,texas
+846,-82.9987942,39.9611755,11/23/2015,shot,50,M,Columbus,ohio,FALSE,attack,Armed/Undetermined,White,ohio
+847,-93.2474098,45.0481968,11/24/2015,shot,45,M,Columbia Heights,minnesota,FALSE,undetermined,Armed/Undetermined,White,minnesota
+848,-115.1398296,36.1699412,11/24/2015,shot and Tasered,32,M,Las Vegas,nevada,TRUE,attack,Armed/Undetermined,White,nevada
+849,-75.1196199,39.9259463,11/24/2015,shot,24,M,Camden,new jersey,FALSE,attack,Armed/Undetermined,Black,new jersey
+850,-93.2922989,37.2089572,11/25/2015,shot,23,M,Springfield,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+851,-109.291475,34.1111581,11/25/2015,shot,52,M,Eagar,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+852,-93.2060163,37.0208865,11/25/2015,shot,37,F,Ozark,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+853,-93.4379639,36.5636755,11/27/2015,shot,58,M,Lampe,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+854,-96.5383228,32.6395776,11/28/2015,shot,50,M,Seagoville,texas,FALSE,other,Armed/Undetermined,White,texas
+855,-84.5702338,40.5489358,11/29/2015,shot,22,M,Celina,ohio,FALSE,attack,Armed/Undetermined,White,ohio
+856,-94.3618967,39.8891658,11/29/2015,shot,53,M,Maysville,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+857,-112.2718239,33.5975393,11/29/2015,shot,69,M,Sun City,arizona,TRUE,attack,Armed/Undetermined,Hispanic,arizona
+858,-119.0187125,35.3732921,11/29/2015,shot,23,M,Bakersfield,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+859,-96.6851982,40.8257625,11/29/2015,shot,29,M,Lincoln,nebraska,FALSE,attack,Armed/Undetermined,White,nebraska
+860,-84.3879824,33.7489954,11/30/2015,shot,18,M,Atlanta,georgia,FALSE,attack,Armed/Undetermined,Black,georgia
+861,-103.1598876,31.7512396,11/30/2015,shot,31,M,Wink,texas,FALSE,other,Armed/Undetermined,Hispanic,texas
+862,-68.7778138,44.8011821,12/1/2015,shot,23,M,Bangor,maine,FALSE,attack,Armed/Undetermined,White,maine
+863,-118.081733,33.9022367,12/1/2015,shot,18,M,Norwalk,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+864,-104.990251,39.7392358,12/2/2015,shot,35,M,Denver,colorado,FALSE,attack,Armed/Undetermined,Hispanic,colorado
+865,-122.4194155,37.7749295,12/2/2015,shot,26,M,San Francisco,california,FALSE,other,Armed/Undetermined,Black,california
+866,-98.4936282,29.4241219,12/2/2015,shot,32,M,San Antonio,texas,FALSE,other,Armed/Undetermined,Hispanic,texas
+867,-107.7586404,32.2686981,12/2/2015,shot,36,M,Deming,new mexico,FALSE,attack,Armed/Undetermined,Hispanic,new mexico
+868,-102.0740255,41.0630102,12/3/2015,shot,66,M,Big Springs,nebraska,FALSE,attack,Armed/Undetermined,White,nebraska
+869,-111.8314724,33.4151843,12/4/2015,shot and Tasered,47,M,Mesa,arizona,FALSE,other,Armed/Undetermined,White,arizona
+870,-80.0115701,40.4276685,12/4/2015,shot,21,M,Mount Washington,pennsylvania,FALSE,attack,Armed/Undetermined,Black,pennsylvania
+871,-96.9488945,32.8140177,12/5/2015,shot,24,M,Irving,texas,FALSE,attack,Armed/Undetermined,White,texas
+872,-80.1917902,25.7616798,12/5/2015,shot and Tasered,51,M,Miami,florida,FALSE,other,Armed/Undetermined,White,florida
+873,-88.462609,44.1858193,12/5/2015,shot,60,M,Neenah,wisconsin,FALSE,other,Armed/Undetermined,White,wisconsin
+874,-90.1994042,38.6270025,12/5/2015,shot,61,F,St. Louis,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+875,-116.2155619,33.7205771,12/5/2015,shot,38,M,Indio,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+876,-122.3320708,47.6062095,12/6/2015,shot,35,M,Seattle,washington,FALSE,attack,Armed/Undetermined,White,washington
+877,-81.5101208,41.5528288,12/6/2015,shot,46,M,Richmond Heights,ohio,TRUE,attack,Armed/Undetermined,Black,ohio
+878,-105.5911007,41.3113669,12/6/2015,shot,48,M,Laramie,wyoming,TRUE,other,Armed/Undetermined,White,wyoming
+879,-81.6943605,41.49932,12/8/2015,shot,33,M,Cleveland,ohio,FALSE,attack,Armed/Undetermined,Black,ohio
+880,-86.2938637,37.4800544,12/9/2015,shot,66,M,Leitchfield,kentucky,FALSE,attack,Armed/Undetermined,White,kentucky
+881,-86.158068,39.768403,12/10/2015,shot,34,M,Indianapolis,indiana,FALSE,attack,Armed/Undetermined,White,indiana
+882,-82.2962268,34.9203946,12/10/2015,shot,55,M,Taylors,south carolina,FALSE,attack,Armed/Undetermined,Black,south carolina
+883,-121.802173,36.6844029,12/10/2015,shot,54,M,Marina,california,FALSE,attack,Armed/Undetermined,White,california
+884,-86.158068,39.768403,12/12/2015,shot,25,M,Indianapolis,indiana,TRUE,attack,Armed/Undetermined,Black,indiana
+885,-85.3096801,35.0456297,12/12/2015,shot,24,M,Chattanooga,tennessee,FALSE,attack,Armed/Undetermined,Black,tennessee
+886,-118.2114603,33.930293,12/12/2015,shot,28,M,Lynwood,california,FALSE,attack,Armed/Undetermined,Black,california
+887,-97.4878023,34.2331475,12/12/2015,shot,36,M,Healdton,oklahoma,FALSE,attack,Armed/Undetermined,White,oklahoma
+888,-75.1812913,40.9995386,12/12/2015,shot,20,M,East Stroudsburg,pennsylvania,TRUE,attack,Armed/Undetermined,White,pennsylvania
+889,-117.2897652,34.1083449,12/12/2015,shot,49,M,San Bernardino,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+890,-97.1080656,32.735687,12/13/2015,shot,51,F,Arlington,texas,TRUE,attack,Armed/Undetermined,White,texas
+891,-97.1330683,33.2148412,12/13/2015,shot,21,M,Denton,texas,TRUE,other,Armed/Undetermined,White,texas
+892,-105.0555389,39.7744311,12/13/2015,shot,32,M,Mountain View,colorado,FALSE,attack,Armed/Undetermined,Hispanic,colorado
+893,-90.0715323,29.9510658,12/14/2015,shot,33,M,New Orleans,louisiana,FALSE,attack,Armed/Undetermined,Black,louisiana
+894,-76.4394056,39.3342744,12/14/2015,shot and Tasered,52,M,Middle River,maryland,TRUE,other,Armed/Undetermined,White,maryland
+895,-88.9158953,35.8197917,12/14/2015,shot,56,M,Humboldt,tennessee,FALSE,undetermined,Armed/Undetermined,White,tennessee
+896,-115.1398296,36.1699412,12/14/2015,shot,48,F,Las Vegas,nevada,TRUE,attack,Armed/Undetermined,White,nevada
+897,-121.5682751,37.0057816,12/14/2015,shot,19,M,Gilroy,california,FALSE,undetermined,Armed/Undetermined,Hispanic,california
+898,-115.1398296,36.1699412,12/14/2015,shot,45,M,Las Vegas,nevada,FALSE,attack,Armed/Undetermined,Hispanic,nevada
+899,-81.1642682,37.8953906,12/14/2015,shot,33,M,Mount Hope,west virginia,FALSE,attack,Armed/Undetermined,White,west virginia
+900,-81.1761895,35.3165257,12/15/2015,shot,51,M,Dallas,north carolina,FALSE,attack,Armed/Undetermined,Black,north carolina
+901,-119.0376023,34.2163937,12/16/2015,shot,NA,M,Camarillo,california,TRUE,attack,Armed/Undetermined,White,california
+902,-81.3578859,41.1536674,12/17/2015,shot,25,M,Kent,ohio,TRUE,other,Armed/Undetermined,White,ohio
+903,-120.9968782,37.6390972,12/17/2015,shot,24,M,Modesto,california,FALSE,attack,Armed/Undetermined,White,california
+904,-83.4688204,41.607272,12/18/2015,shot,22,F,Northwood,ohio,FALSE,attack,Armed/Undetermined,White,ohio
+905,-83.9207392,35.9606384,12/18/2015,shot,32,M,Knoxville,tennessee,FALSE,attack,Armed/Undetermined,White,tennessee
+906,-105.5730665,36.4072485,12/18/2015,shot,58,M,Taos,new mexico,FALSE,attack,Armed/Undetermined,Hispanic,new mexico
+907,-78.9750189,37.3426444,12/19/2015,shot,24,M,Concord,virginia,FALSE,attack,Armed/Undetermined,Black,virginia
+908,-118.2436849,34.0522342,12/19/2015,shot,26,M,Los Angeles,california,TRUE,attack,Armed/Undetermined,Hispanic,california
+909,-118.1164613,34.5794343,12/20/2015,shot,30,M,Palmdale,california,FALSE,attack,Armed/Undetermined,Black,california
+910,-101.8312969,35.2219971,12/20/2015,shot,31,M,Amarillo,texas,TRUE,attack,Armed/Undetermined,Hispanic,texas
+911,-116.9719684,33.7475203,12/21/2015,shot,34,M,Hemet,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+912,-84.7477136,33.7514966,12/21/2015,shot,48,M,Douglasville,georgia,FALSE,attack,Armed/Undetermined,Black,georgia
+913,-75.3528779,41.5605542,12/21/2015,shot,21,M,Canaan Township,pennsylvania,TRUE,attack,Armed/Undetermined,White,pennsylvania
+914,-81.2636738,28.9005446,12/21/2015,shot,39,M,Deltona,florida,FALSE,attack,Armed/Undetermined,White,florida
+915,-104.8319195,39.7294319,12/21/2015,shot,25,M,Aurora,colorado,FALSE,attack,Armed/Undetermined,Black,colorado
+916,-121.2988335,39.2077473,12/21/2015,shot,30,M,Smartsville,california,FALSE,attack,Armed/Undetermined,White,california
+917,-73.212072,44.4758825,12/22/2015,shot,56,M,Burlington,vermont,FALSE,attack,Armed/Undetermined,White,vermont
+918,-82.3878709,28.5552719,12/22/2015,shot,29,M,Brooksville,florida,FALSE,undetermined,Armed/Undetermined,White,florida
+919,-106.6055534,35.0853336,12/22/2015,shot,19,M,Albuquerque,new mexico,FALSE,undetermined,Armed/Undetermined,Hispanic,new mexico
+920,-91.720681,32.1632079,12/24/2015,shot,36,M,Winnsboro,louisiana,FALSE,other,Armed/Undetermined,White,louisiana
+921,-84.5555347,42.732535,12/24/2015,shot,24,M,Lansing,michigan,FALSE,attack,Armed/Undetermined,Black,michigan
+922,-119.0167679,36.06523,12/24/2015,shot,23,M,Porterville,california,FALSE,other,Armed/Undetermined,Hispanic,california
+923,-80.8431267,35.2270869,12/24/2015,shot,18,M,Charlotte,north carolina,FALSE,attack,Armed/Undetermined,Black,north carolina
+924,-122.1430195,37.4418834,12/25/2015,shot,31,M,Palo Alto,california,TRUE,attack,Armed/Undetermined,White,california
+925,-112.0740373,33.4483771,12/26/2015,shot,41,M,Phoenix,arizona,TRUE,other,Armed/Undetermined,White,arizona
+926,-87.6297982,41.8781136,12/26/2015,shot,19,M,Chicago,illinois,TRUE,undetermined,Armed/Undetermined,Black,illinois
+927,-116.9337599,43.6176584,12/26/2015,shot,38,M,Homedale,idaho,FALSE,attack,Armed/Undetermined,Hispanic,idaho
+928,-88.5900235,30.9251869,12/27/2015,shot,36,M,Lucedale,mississippi,FALSE,undetermined,Armed/Undetermined,White,mississippi
+929,-111.9400054,33.4255104,12/27/2015,shot,34,M,Tempe,arizona,TRUE,other,Armed/Undetermined,White,arizona
+930,-91.5015002,29.7960399,12/27/2015,shot,52,M,Franklin,louisiana,FALSE,undetermined,Armed/Undetermined,White,louisiana
+931,-76.5835621,36.7282054,12/28/2015,shot,28,M,Suffolk,virginia,FALSE,attack,Armed/Undetermined,White,virginia
+932,-119.7725868,36.7468422,12/30/2015,shot,55,M,Fresno,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+933,-117.1610838,32.715738,1/1/2016,shot,30,M,San Diego,california,FALSE,attack,Armed/Undetermined,White,california
+934,-110.5599556,45.6614105,1/2/2016,shot and Tasered,37,M,Livingston,montana,FALSE,attack,Armed/Undetermined,White,montana
+935,-100.4503797,32.2354051,1/2/2016,shot,54,M,Maryneal,texas,FALSE,attack,Armed/Undetermined,White,texas
+936,-96.7311034,43.5445959,1/2/2016,shot,37,M,Sioux Falls,south dakota,FALSE,undetermined,Armed/Undetermined,White,south dakota
+937,-80.8431267,35.2270869,1/3/2016,shot,30,M,Charlotte,north carolina,FALSE,attack,Armed/Undetermined,Black,north carolina
+938,-93.2323813,30.512699,1/4/2016,shot,27,M,Ragley,louisiana,FALSE,undetermined,Armed/Undetermined,Black,louisiana
+939,-97.5164276,35.4675602,1/4/2016,shot,22,M,Oklahoma City,oklahoma,FALSE,attack,Armed/Undetermined,Black,oklahoma
+940,-122.9006951,47.0378741,1/5/2016,shot,29,M,Olympia,washington,FALSE,attack,Armed/Undetermined,White,washington
+941,-82.3534727,36.3134397,1/5/2016,shot,39,M,Johnson City,tennessee,FALSE,attack,Armed/Undetermined,White,tennessee
+942,-80.8431267,35.2270869,1/5/2016,shot,33,M,Charlotte,north carolina,FALSE,attack,Armed/Undetermined,Black,north carolina
+943,-122.3916754,40.5865396,1/5/2016,shot,52,M,Redding,california,TRUE,other,Armed/Undetermined,White,california
+944,-120.9577098,37.5949316,1/5/2016,shot,28,M,Ceres,california,FALSE,other,Armed/Undetermined,Hispanic,california
+945,-75.3076883,39.957902,1/5/2016,shot and Tasered,54,M,Upper Darby,pennsylvania,TRUE,undetermined,Armed/Undetermined,White,pennsylvania
+946,-87.8328505,42.4461322,1/6/2016,shot,38,M,Zion,illinois,TRUE,undetermined,Armed/Undetermined,White,illinois
+947,-105.877212,33.6417408,1/6/2016,shot,32,M,Carrizozo,new mexico,TRUE,attack,Armed/Undetermined,Hispanic,new mexico
+948,-87.1023746,37.7307984,1/6/2016,shot,34,M,Daviess County,kentucky,FALSE,attack,Armed/Undetermined,White,kentucky
+949,-88.4597673,42.6386048,1/8/2016,shot,26,M,Geneva,wisconsin,FALSE,other,Armed/Undetermined,White,wisconsin
+950,-84.6768796,34.0659329,1/8/2016,shot,50,M,Acworth,georgia,FALSE,undetermined,Armed/Undetermined,White,georgia
+951,-122.9084445,46.146779,1/10/2016,shot,37,M,Kelso,washington,FALSE,other,Armed/Undetermined,White,washington
+952,-76.0627266,39.6978871,1/10/2016,shot,45,F,Rising Sun,maryland,TRUE,attack,Armed/Undetermined,Black,maryland
+953,-84.5120196,39.1031182,1/11/2016,shot,45,M,Cincinnati,ohio,FALSE,attack,Armed/Undetermined,White,ohio
+954,-104.990251,39.7392358,1/11/2016,shot,32,M,Denver,colorado,FALSE,attack,Armed/Undetermined,White,colorado
+955,-76.2858726,36.8507689,1/12/2016,shot,58,M,Norfolk,virginia,TRUE,undetermined,Armed/Undetermined,White,virginia
+956,-83.561835,35.8681455,1/13/2016,shot,29,M,Sevierville,tennessee,FALSE,undetermined,Armed/Undetermined,White,tennessee
+957,-120.939249,47.1953976,1/13/2016,shot,60,M,Cle Elum,washington,TRUE,attack,Armed/Undetermined,White,washington
+958,-89.1428573,37.8331059,1/14/2016,shot,40,M,Hurst,illinois,FALSE,attack,Armed/Undetermined,White,illinois
+959,-118.542586,34.3916641,1/14/2016,shot,39,M,Santa Clarita,california,FALSE,other,Armed/Undetermined,Hispanic,california
+960,-79.8467349,38.9259397,1/15/2016,shot,26,M,Elkins,west virginia,FALSE,attack,Armed/Undetermined,White,west virginia
+961,-83.2218731,42.4733688,1/15/2016,shot,24,M,Southfield,michigan,FALSE,attack,Armed/Undetermined,Black,michigan
+962,-118.3520389,34.1176605,1/16/2016,shot,34,M,Hollywood Hills,california,FALSE,undetermined,Armed/Undetermined,Hispanic,california
+963,-98.4936282,29.4241219,1/16/2016,shot,27,M,San Antonio,texas,FALSE,attack,Armed/Undetermined,White,texas
+964,-81.2684485,39.1909105,1/16/2016,shot,55,M,Petroleum,west virginia,FALSE,attack,Armed/Undetermined,White,west virginia
+965,-80.6675577,26.6845104,1/16/2016,shot,19,M,Belle Glade,florida,FALSE,attack,Armed/Undetermined,Black,florida
+966,-90.1994042,38.6270025,1/17/2016,shot,52,M,St. Louis,missouri,FALSE,attack,Armed/Undetermined,Black,missouri
+967,-118.4849365,34.235822,1/17/2016,shot,24,M,North Hills,california,FALSE,undetermined,Armed/Undetermined,Hispanic,california
+968,-86.0419169,33.9548201,1/17/2016,shot,38,M,Rainbow City,alabama,FALSE,other,Armed/Undetermined,White,alabama
+969,-111.8910474,40.7607793,1/17/2016,shot,31,M,Salt Lake City,utah,FALSE,attack,Armed/Undetermined,White,utah
+970,-122.8037102,45.487062,1/17/2016,shot,44,M,Beaverton,oregon,FALSE,attack,Armed/Undetermined,White,oregon
+971,-110.926479,32.2217429,1/18/2016,shot,33,M,Tucson,arizona,TRUE,attack,Armed/Undetermined,White,arizona
+972,-81.3792365,28.5383355,1/18/2016,shot,28,M,Orlando,florida,FALSE,other,Armed/Undetermined,White,florida
+973,-122.8755949,42.3265152,1/18/2016,shot,27,M,Medford,oregon,FALSE,undetermined,Armed/Undetermined,White,oregon
+974,-112.0740373,33.4483771,1/18/2016,shot,39,M,Phoenix,arizona,TRUE,attack,Armed/Undetermined,White,arizona
+975,-122.0438298,37.5933918,1/18/2016,shot,29,M,Union City,california,TRUE,other,Armed/Undetermined,White,california
+976,-96.7969879,32.7766642,1/19/2016,shot,36,M,Dallas,texas,FALSE,undetermined,Armed/Undetermined,White,texas
+977,-80.8872959,35.7826363,1/19/2016,shot,55,M,Statesville,north carolina,TRUE,undetermined,Armed/Undetermined,White,north carolina
+978,-83.2784851,30.8327022,1/19/2016,shot,28,M,Valdosta,georgia,FALSE,attack,Armed/Undetermined,White,georgia
+979,-91.9540054,30.5601953,1/20/2016,shot,40,M,Port Barre,louisiana,FALSE,attack,Armed/Undetermined,Black,louisiana
+980,-86.5722154,34.8514782,1/20/2016,shot,33,M,Meridianville,alabama,FALSE,other,Armed/Undetermined,White,alabama
+981,-99.1403189,30.0474332,1/20/2016,shot,37,M,Kerrville,texas,FALSE,other,Armed/Undetermined,White,texas
+982,-95.5824846,35.2873206,1/21/2016,shot,39,M,Eufaula,oklahoma,FALSE,attack,Armed/Undetermined,Black,oklahoma
+983,-86.6294262,32.8387371,1/23/2016,shot,43,M,Clanton,alabama,FALSE,undetermined,Armed/Undetermined,White,alabama
+984,-119.8138027,39.5296329,1/25/2016,shot,38,M,Reno,nevada,FALSE,other,Armed/Undetermined,Hispanic,nevada
+985,-119.0541032,43.5862606,1/26/2016,shot,55,M,Burns,oregon,FALSE,undetermined,Armed/Undetermined,White,oregon
+986,-93.1732401,34.5720347,1/27/2016,shot,52,M,Mountain Pine,arkansas,FALSE,undetermined,Armed/Undetermined,White,arkansas
+987,-90.0489801,35.1495343,1/27/2016,shot,32,M,Memphis,tennessee,FALSE,attack,Armed/Undetermined,Black,tennessee
+988,-105.937799,35.6869752,1/27/2016,shot,31,M,Santa Fe,new mexico,FALSE,undetermined,Armed/Undetermined,Hispanic,new mexico
+989,-79.4311616,34.3371047,1/27/2016,shot,27,M,Latta,south carolina,FALSE,other,Armed/Undetermined,White,south carolina
+990,-83.1763145,42.3222599,1/27/2016,shot,31,F,Dearborn,michigan,TRUE,other,Armed/Undetermined,Black,michigan
+991,-97.1416768,32.5631924,1/27/2016,shot,30,M,Mansfield,texas,FALSE,attack,Armed/Undetermined,White,texas
+992,-84.564147,33.8999297,1/27/2016,shot,26,M,Cobb County,georgia,FALSE,attack,Armed/Undetermined,Hispanic,georgia
+993,-95.9979883,41.2523634,1/28/2016,shot,33,M,Omaha,nebraska,FALSE,undetermined,Armed/Undetermined,White,nebraska
+994,-122.1188945,45.2023855,1/28/2016,shot,19,M,Clackamas County,oregon,TRUE,other,Armed/Undetermined,Black,oregon
+995,-122.4442906,47.2528768,1/29/2016,shot,32,F,Tacoma,washington,FALSE,undetermined,Armed/Undetermined,White,washington
+996,-70.9494938,42.466763,1/29/2016,shot,33,M,Lynn,massachusetts,FALSE,attack,Armed/Undetermined,Black,massachusetts
+997,-96.9488945,32.8140177,1/29/2016,shot,29,M,Irving,texas,FALSE,undetermined,Armed/Undetermined,Black,texas
+998,-87.6297982,41.8781136,1/30/2016,shot,29,M,Chicago,illinois,FALSE,other,Armed/Undetermined,Black,illinois
+999,-85.2860676,34.9831309,1/30/2016,shot,64,M,Rossville,georgia,FALSE,attack,Armed/Undetermined,Hispanic,georgia
+1000,-94.4446742,39.1097268,1/30/2016,shot,42,M,Sugar Creek,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+1001,-119.0187125,35.3732921,1/31/2016,shot,42,M,Bakersfield,california,FALSE,other,Armed/Undetermined,White,california
+1002,-79.8819942,40.4417355,1/31/2016,shot and Tasered,37,M,Wilkinsburg,pennsylvania,FALSE,attack,Armed/Undetermined,Black,pennsylvania
+1003,-81.4174057,26.4185248,1/31/2016,shot,46,M,Immokalee,florida,FALSE,other,Armed/Undetermined,Hispanic,florida
+1004,-97.3639068,32.8601275,1/31/2016,shot,25,M,Saginaw,texas,FALSE,attack,Armed/Undetermined,White,texas
+1005,-77.0368707,38.9071923,2/1/2016,shot,36,M,Washington,district of columbia,FALSE,attack,Armed/Undetermined,Black,district of columbia
+1006,-106.6055534,35.0853336,2/1/2016,shot,21,M,Albuquerque,new mexico,FALSE,undetermined,Armed/Undetermined,Hispanic,new mexico
+1007,-121.302728,38.5890723,2/2/2016,shot and Tasered,30,M,Rancho Cordova,california,TRUE,attack,Armed/Undetermined,White,california
+1008,-95.9566635,35.5145495,2/3/2016,shot,53,M,Schulter,oklahoma,FALSE,attack,Armed/Undetermined,White,oklahoma
+1009,-82.1400923,29.1871986,2/3/2016,shot,31,M,Ocala,florida,TRUE,attack,Armed/Undetermined,Hispanic,florida
+1010,-111.8314724,33.4151843,2/4/2016,shot,24,M,Mesa,arizona,TRUE,other,Armed/Undetermined,White,arizona
+1011,-94.5785667,39.0997265,2/4/2016,shot,47,M,Kansas City,missouri,FALSE,attack,Armed/Undetermined,White,missouri
+1012,-81.460856,40.7736624,2/4/2016,shot,54,M,Perry Township,ohio,FALSE,attack,Armed/Undetermined,White,ohio
+1013,-155.09,19.7297222,2/5/2016,shot,38,M,Hilo,hawaii,FALSE,other,Armed/Undetermined,White,hawaii
+1014,-87.0396881,30.6324149,2/5/2016,shot,30,M,Milton,florida,FALSE,undetermined,Armed/Undetermined,White,florida
+1015,-80.8644667,36.0234316,2/5/2016,shot,51,M,Union Grove,north carolina,FALSE,attack,Armed/Undetermined,White,north carolina
+1016,-123.9226385,45.9931636,2/5/2016,shot,55,M,Seaside,oregon,FALSE,attack,Armed/Undetermined,White,oregon
+1017,-118.2436849,34.0522342,2/6/2016,shot,16,M,Los Angeles,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+1018,-82.9987942,39.9611755,2/7/2016,shot,23,M,Columbus,ohio,FALSE,other,Armed/Undetermined,Black,ohio
+1019,-74.3392821,39.9711696,2/7/2016,shot,27,M,Manchester,new jersey,FALSE,other,Armed/Undetermined,Hispanic,new jersey
+1020,-75.3557457,39.849557,2/8/2016,shot,33,M,Chester,pennsylvania,FALSE,attack,Armed/Undetermined,Black,pennsylvania
+1021,-90.0715323,29.9510658,2/8/2016,shot,22,M,New Orleans,louisiana,FALSE,undetermined,Armed/Undetermined,Black,louisiana
+1022,-85.7584557,38.2526647,2/10/2016,shot,NA,M,Louisville,kentucky,FALSE,attack,Armed/Undetermined,White,kentucky
+1023,-76.2772223,39.4622357,2/10/2016,shot,67,M,Abingdon,maryland,FALSE,attack,Armed/Undetermined,White,maryland
+1024,-93.1566107,45.0060767,2/10/2016,shot,52,M,Roseville,minnesota,TRUE,undetermined,Armed/Undetermined,White,minnesota
+1025,-81.2117473,35.5756889,2/11/2016,shot,35,M,Maiden,north carolina,TRUE,other,Armed/Undetermined,White,north carolina
+1026,-118.1541632,34.6867846,2/11/2016,shot,45,M,Lancaster,california,FALSE,other,Armed/Undetermined,White,california
+1027,-71.0588801,42.3600825,2/12/2016,shot,29,M,Boston,massachusetts,FALSE,attack,Armed/Undetermined,Black,massachusetts
+1028,-97.3307658,32.7554883,2/12/2016,shot,53,M,Fort Worth,texas,FALSE,attack,Armed/Undetermined,White,texas
+1029,-76.1474244,43.0481221,2/12/2016,shot,32,F,Syracuse,new york,FALSE,other,Armed/Undetermined,Black,new york
+1030,-91.1403196,30.4582829,2/13/2016,shot,22,M,Baton Rouge,louisiana,TRUE,attack,Armed/Undetermined,Black,louisiana
+1031,-93.7121656,41.6266555,2/13/2016,shot,29,M,Urbandale,iowa,FALSE,attack,Armed/Undetermined,Black,iowa
+1032,-78.3413918,37.683478,2/13/2016,shot,19,M,Arvonia,virginia,FALSE,undetermined,Armed/Undetermined,Black,virginia
+1033,-118.451357,34.1898566,2/14/2016,shot,26,M,Van Nuys,california,FALSE,other,Armed/Undetermined,White,california
+1034,-82.5748194,27.4989278,2/14/2016,shot,50,M,Bradenton,florida,TRUE,other,Armed/Undetermined,White,florida
+1035,-103.1935127,32.1131814,2/15/2016,shot,52,M,Jal,new mexico,FALSE,attack,Armed/Undetermined,Hispanic,new mexico
+1036,-117.8131125,33.8886259,2/15/2016,shot,39,M,Yorba Linda,california,FALSE,undetermined,Armed/Undetermined,White,california
+1037,-73.2612615,41.1408363,2/16/2016,shot,51,M,Fairfield,connecticut,FALSE,undetermined,Armed/Undetermined,White,connecticut
+1038,-93.4801942,37.1200526,2/16/2016,shot,48,M,Republic,missouri,FALSE,other,Armed/Undetermined,White,missouri
+1039,-94.2396554,34.5862171,2/16/2016,shot,30,M,Mena,arkansas,FALSE,other,Armed/Undetermined,White,arkansas
+1040,-84.5120196,39.1031182,2/17/2016,shot,37,M,Cincinnati,ohio,FALSE,undetermined,Armed/Undetermined,Black,ohio
+1041,-83.4571057,34.203997,2/18/2016,shot,25,M,Commerce,georgia,FALSE,other,Armed/Undetermined,White,georgia
+1042,-95.4624548,33.6631622,2/18/2016,shot,32,M,Reno,texas,FALSE,attack,Armed/Undetermined,White,texas
+1043,-111.9738304,41.223,2/19/2016,shot,35,M,Ogden,utah,FALSE,attack,Armed/Undetermined,White,utah
+1044,-82.2106876,36.3487196,2/19/2016,shot,NA,M,Elizabethton,tennessee,FALSE,attack,Armed/Undetermined,White,tennessee
+1045,-106.6055534,35.0853336,2/20/2016,shot,23,M,Albuquerque,new mexico,FALSE,undetermined,Armed/Undetermined,Hispanic,new mexico
+1046,-122.5185,47.17176,2/20/2016,shot,41,M,Lakewood,washington,FALSE,attack,Armed/Undetermined,Black,washington
+1047,-88.1900415,34.8117565,2/20/2016,shot,45,M,Iuka,mississippi,FALSE,attack,Armed/Undetermined,White,mississippi
+1048,-122.3320708,47.6062095,2/21/2016,shot,46,M,Seattle,washington,FALSE,other,Armed/Undetermined,Black,washington
+1049,-118.3531311,33.9616801,2/21/2016,shot,31,F,Inglewood,california,FALSE,other,Armed/Undetermined,Black,california
+1050,-119.0187125,35.3732921,2/22/2016,shot,45,M,Bakersfield,california,FALSE,attack,Armed/Undetermined,White,california
+1051,-84.0193789,39.8208925,2/22/2016,shot,22,M,Fairborn,ohio,FALSE,undetermined,Armed/Undetermined,White,ohio
+1052,-91.1403196,30.4582829,2/23/2016,shot,48,M,Baton Rouge,louisiana,TRUE,attack,Armed/Undetermined,Black,louisiana
+1053,-112.0740373,33.4483771,2/23/2016,shot,26,M,Phoenix,arizona,FALSE,attack,Armed/Undetermined,White,arizona
+1054,-94.2816148,39.0169509,2/24/2016,shot,16,M,Blue Springs,missouri,TRUE,other,Armed/Undetermined,White,missouri
+1055,-105.4786412,39.4060536,2/24/2016,shot,58,M,Bailey,colorado,FALSE,attack,Armed/Undetermined,White,colorado
+1056,-112.0740373,33.4483771,2/24/2016,shot,27,M,Phoenix,arizona,FALSE,other,Armed/Undetermined,Hispanic,arizona
+1057,-118.0647871,33.8583483,2/24/2016,shot,26,M,Cerritos,california,FALSE,undetermined,Armed/Undetermined,Hispanic,california
+1058,-88.405096,42.7852922,2/24/2016,shot,21,M,East Troy,wisconsin,FALSE,undetermined,Armed/Undetermined,Black,wisconsin
+1059,-104.6921874,40.3763701,2/25/2016,shot,37,M,Evans,colorado,FALSE,attack,Armed/Undetermined,White,colorado
+1060,-86.2999689,32.3668052,2/25/2016,shot,56,M,Montgomery,alabama,FALSE,undetermined,Armed/Undetermined,Black,alabama
+1061,-119.2246073,39.4154714,2/25/2016,shot,19,M,Silver Springs,nevada,FALSE,attack,Armed/Undetermined,White,nevada
+1062,-97.4314267,38.1383437,2/25/2016,shot,38,M,Hesston,kansas,TRUE,attack,Armed/Undetermined,Black,kansas
+1063,-79.9414266,37.2709704,2/26/2016,shot,18,M,Roanoke,virginia,FALSE,other,Armed/Undetermined,Black,virginia
+1064,-103.1462899,44.0624879,2/26/2016,shot,35,M,Rapid Valley,south dakota,FALSE,attack,Armed/Undetermined,White,south dakota
+1065,-98.4936282,29.4241219,2/27/2016,shot,23,M,San Antonio,texas,FALSE,attack,Armed/Undetermined,Hispanic,texas
+1066,-86.2544223,33.8370433,2/28/2016,shot,41,M,Ashville,alabama,FALSE,attack,Armed/Undetermined,White,alabama
+1067,-78.6381787,35.7795897,2/29/2016,shot,24,M,Raleigh,north carolina,FALSE,other,Armed/Undetermined,Black,north carolina
+1068,-80.5886646,28.0344621,3/1/2016,shot,39,M,Palm Bay,florida,FALSE,attack,Armed/Undetermined,Hispanic,florida
+1069,-97.0819541,32.8370727,3/1/2016,shot,22,M,Euless,texas,FALSE,attack,Armed/Undetermined,Hispanic,texas
+1070,-88.6116854,30.385755,3/1/2016,shot,37,M,Gautier,mississippi,FALSE,attack,Armed/Undetermined,White,mississippi
+1071,-76.3482931,39.5359406,3/2/2016,shot,36,M,Bel Air,maryland,TRUE,other,Armed/Undetermined,White,maryland
+1072,-78.9219698,40.3267407,3/2/2016,shot and Tasered,41,M,Johnstown,pennsylvania,FALSE,other,Armed/Undetermined,White,pennsylvania
+1073,-78.744572,42.9026136,3/5/2016,shot,34,M,Cheektowaga,new york,FALSE,attack,Armed/Undetermined,White,new york
+1074,-94.1265562,30.080174,3/5/2016,shot,22,M,Beaumont,texas,FALSE,undetermined,Armed/Undetermined,White,texas
+1075,-97.5458565,32.8951262,3/6/2016,shot,51,M,Azle,texas,FALSE,attack,Armed/Undetermined,White,texas
+1076,-118.2120161,33.954737,3/6/2016,shot,41,M,South Gate,california,FALSE,attack,Armed/Undetermined,Hispanic,california
+1077,-121.8863286,37.3382082,3/7/2016,shot,45,M,San Jose,california,FALSE,other,Armed/Undetermined,White,california
+1078,-95.6890185,39.0558235,3/7/2016,shot,45,M,Topeka,kansas,FALSE,undetermined,Armed/Undetermined,White,kansas
+1079,-104.2288375,32.4206736,3/7/2016,shot,41,M,Carlsbad,new mexico,FALSE,undetermined,Armed/Undetermined,Hispanic,new mexico
+1080,-123.1007066,47.2150945,1/2/2015,shot,53,M,Shelton,washington,TRUE,attack,Armed/Undetermined,Other,washington
+1081,-121.9885719,37.5482697,1/16/2015,shot and Tasered,48,M,Fremont,california,FALSE,other,Armed/Undetermined,Other,california
+1082,-74.8623203,39.6573556,1/25/2015,shot,59,M,Winslow,new jersey,FALSE,attack,Armed/Undetermined,Other,new jersey
+1083,-95.3698028,29.7604267,3/1/2015,shot,35,M,Houston,texas,FALSE,attack,Armed/Undetermined,Other,texas
+1084,-114.8345117,35.9782216,3/30/2015,shot,54,M,Boulder City,nevada,FALSE,attack,Armed/Undetermined,Other,nevada
+1085,-121.2907796,37.9577016,3/4/2015,shot,28,M,Stockton,california,FALSE,attack,Armed/Undetermined,Other,california
+1086,-121.2907796,37.9577016,1/28/2015,shot and Tasered,35,M,Stockton,california,TRUE,attack,Armed/Undetermined,Other,california
+1087,-112.0740373,33.4483771,1/27/2015,shot,26,M,Phoenix,arizona,FALSE,other,Armed/Undetermined,Other,arizona
+1088,-122.0363496,37.36883,4/8/2015,shot,28,M,Sunnyvale,california,TRUE,other,Armed/Undetermined,Other,california
+1089,-122.5185,47.17176,4/21/2015,shot,37,M,Lakewood,washington,TRUE,other,Unarmed,Other,washington
+1090,-105.2769348,39.9324862,4/22/2015,shot,39,M,Eldorado Springs,colorado,FALSE,attack,Armed/Undetermined,Other,colorado
+1091,-117.1610838,32.715738,4/30/2015,shot,42,M,San Diego,california,TRUE,other,Unarmed,Other,california
+1092,-96.6388833,32.912624,5/3/2015,shot,34,M,Garland,texas,FALSE,attack,Armed/Undetermined,Other,texas
+1093,-118.0467339,34.0519548,5/5/2015,shot,32,M,South El Monte,california,FALSE,attack,Armed/Undetermined,Other,california
+1094,-83.9879625,33.9562149,5/7/2015,shot,72,M,Lawrenceville,georgia,TRUE,other,Armed/Undetermined,Other,georgia
+1095,-157.8583333,21.3069444,5/12/2015,shot and Tasered,46,M,Honolulu,hawaii,FALSE,attack,Armed/Undetermined,Other,hawaii
+1096,-118.1937395,33.7700504,5/27/2015,shot and Tasered,20,M,Long Beach,california,FALSE,other,Unarmed,Other,california
+1097,-122.8755949,42.3265152,5/31/2015,shot,40,M,Medford,oregon,TRUE,attack,Armed/Undetermined,Other,oregon
+1098,-86.0899847,39.7219884,6/8/2015,shot,54,M,Beech Grove,indiana,TRUE,attack,Armed/Undetermined,Other,indiana
+1099,-109.0603825,36.6039938,3/20/2015,shot,24,M,Red Valley,arizona,FALSE,attack,Armed/Undetermined,Other,arizona
+1100,-96.2136136,35.9436968,4/9/2015,shot and Tasered,54,M,Kellyville,oklahoma,FALSE,attack,Armed/Undetermined,Other,oklahoma
+1101,-87.0352831,35.6150716,6/11/2015,shot,86,M,Columbia,tennessee,TRUE,attack,Armed/Undetermined,Other,tennessee
+1102,-98.8208889,47.8805328,6/16/2015,shot,31,M,Wood Lake,north dakota,FALSE,attack,Armed/Undetermined,Other,north dakota
+1103,-117.1610838,32.715738,7/2/2015,shot,60,M,San Diego,california,FALSE,other,Armed/Undetermined,Other,california
+1104,-80.8542568,37.8590061,7/2/2015,shot,59,M,Meadow Bridge,west virginia,TRUE,attack,Armed/Undetermined,Other,west virginia
+1105,-104.990251,39.7392358,7/12/2015,shot,35,M,Denver,colorado,TRUE,other,Armed/Undetermined,Other,colorado
+1106,-80.955924,41.3083893,7/14/2015,shot,76,M,Southington,ohio,FALSE,attack,Armed/Undetermined,Other,ohio
+1107,-85.3096801,35.0456297,7/16/2015,shot,24,M,Chattanooga,tennessee,TRUE,attack,Armed/Undetermined,Other,tennessee
+1108,-104.8202462,41.1399814,7/16/2015,shot,23,M,Cheyenne,wyoming,FALSE,attack,Armed/Undetermined,Other,wyoming
+1109,-90.1670393,35.8800733,7/28/2015,shot,41,M,Manila,arkansas,FALSE,other,Armed/Undetermined,Other,arkansas
+1110,-81.8440197,38.4148146,8/1/2015,shot,52,M,Nitro,west virginia,FALSE,attack,Armed/Undetermined,Other,west virginia
+1111,-95.9510661,29.7860643,8/8/2015,shot,33,M,Brookshire,texas,FALSE,attack,Armed/Undetermined,Other,texas
+1112,-75.7893604,41.3259134,8/9/2015,shot,77,M,Pittston,pennsylvania,TRUE,attack,Armed/Undetermined,Other,pennsylvania
+1113,-121.9885719,37.5482697,7/20/2015,shot,54,M,Fremont,california,FALSE,other,Armed/Undetermined,Other,california
+1114,-147.7163889,64.8377778,9/9/2015,shot,33,M,Fairbanks,alaska,FALSE,attack,Armed/Undetermined,Other,alaska
+1115,-74.9813084,44.6697805,9/10/2015,shot,31,M,Potsdam,new york,FALSE,attack,Armed/Undetermined,Other,new york
+1116,-117.435048,34.0922335,9/10/2015,shot,35,M,Fontana,california,TRUE,other,Armed/Undetermined,Other,california
+1117,-147.7163889,64.8377778,9/8/2015,shot,19,M,Fairbanks,alaska,FALSE,attack,Armed/Undetermined,Other,alaska
+1118,-115.1175013,36.1988592,9/22/2015,shot,26,M,North Las Vegas,nevada,FALSE,attack,Armed/Undetermined,Other,nevada
+1119,-111.8910474,40.7607793,9/23/2015,shot,48,M,Salt Lake City,utah,FALSE,attack,Armed/Undetermined,Other,utah
+1120,-93.0899578,44.9537029,9/24/2015,shot,30,M,St. Paul,minnesota,TRUE,other,Armed/Undetermined,Other,minnesota
+1121,-103.2310149,44.0805434,9/29/2015,shot,46,M,Rapid City,south dakota,FALSE,attack,Armed/Undetermined,Other,south dakota
+1122,-118.0275667,34.0686206,9/9/2015,shot,59,M,El Monte,california,FALSE,attack,Armed/Undetermined,Other,california
+1123,-118.451357,34.1898566,10/4/2015,shot,45,M,Van Nuys,california,FALSE,undetermined,Armed/Undetermined,Other,california
+1124,-81.5190053,41.0814447,10/5/2015,shot,27,M,Akron,ohio,FALSE,other,Unarmed,Other,ohio
+1125,-121.8946761,36.6002378,10/6/2015,shot,39,M,Monterey,california,TRUE,attack,Armed/Undetermined,Other,california
+1126,-93.2173758,30.2265949,10/11/2015,shot,44,M,Lakes Charles,louisiana,FALSE,attack,Armed/Undetermined,Other,louisiana
+1127,-116.8651224,33.442702,10/9/2015,shot,62,F,Aguanga,california,FALSE,attack,Armed/Undetermined,Other,california
+1128,-121.822098,36.6149217,10/14/2015,shot,59,M,Seaside,california,FALSE,attack,Armed/Undetermined,Other,california
+1129,-83.6986568,34.0142667,10/16/2015,shot,45,M,Barrow County,georgia,FALSE,attack,Armed/Undetermined,Other,georgia
+1130,-82.4571776,27.950575,10/26/2015,shot,18,M,Tampa,florida,FALSE,attack,Unarmed,Other,florida
+1131,-120.4829677,37.3021632,11/4/2015,shot,18,M,Merced,california,FALSE,attack,Armed/Undetermined,Other,california
+1132,-104.8319195,39.7294319,11/30/2015,shot,25,M,Aurora,colorado,FALSE,attack,Armed/Undetermined,Other,colorado
+1133,-117.2897652,34.1083449,12/2/2015,shot,27,F,San Bernardino,california,FALSE,attack,Armed/Undetermined,Other,california
+1134,-117.2897652,34.1083449,12/2/2015,shot,28,M,San Bernardino,california,FALSE,attack,Armed/Undetermined,Other,california
+1135,-95.3169136,36.3084275,12/9/2015,shot,51,M,Pryor,oklahoma,TRUE,attack,Armed/Undetermined,Other,oklahoma
+1136,-116.9719684,33.7475203,12/10/2015,shot,NA,M,Hemet,california,FALSE,attack,Armed/Undetermined,Other,california
+1137,-122.7695986,46.8645747,12/13/2015,shot,30,M,Thurston County,washington,FALSE,attack,Armed/Undetermined,Other,washington
+1138,-104.8319195,39.7294319,12/12/2015,shot,NA,M,Aurora,colorado,FALSE,attack,Armed/Undetermined,Other,colorado
+1139,-118.1937395,33.7700504,12/14/2015,shot,39,M,Long Beach,california,FALSE,other,Armed/Undetermined,Other,california
+1140,-84.5474435,39.0925597,12/22/2015,shot,61,M,Ludlow,kentucky,FALSE,attack,Armed/Undetermined,Other,kentucky
+1141,-90.9781585,30.6937955,12/24/2015,shot,54,M,Pride,louisiana,TRUE,attack,Armed/Undetermined,Other,louisiana
+1142,-122.9666644,38.497135,12/29/2015,shot,50,F,Santa Nella,california,TRUE,other,Armed/Undetermined,Other,california
+1143,-118.072846,34.0805651,12/29/2015,shot,NA,M,Rosemead,california,FALSE,undetermined,Armed/Undetermined,Other,california
+1144,-107.2386627,41.7910697,12/30/2015,shot,39,M,Rawlins,wyoming,FALSE,undetermined,Armed/Undetermined,Other,wyoming
+1145,-118.439,34.28195,1/11/2016,shot,NA,M,San Fernando,california,FALSE,attack,Armed/Undetermined,Other,california
+1146,-149.9282138,61.1767272,1/12/2016,shot,49,M,Spenard,alaska,FALSE,undetermined,Armed/Undetermined,Other,alaska
+1147,-84.2560299,35.7972998,1/27/2016,shot,40,M,Lenoir City,tennessee,TRUE,undetermined,Armed/Undetermined,Other,tennessee
+1148,-105.084423,40.5852602,1/30/2016,shot,38,M,Fort Collins,colorado,FALSE,other,Armed/Undetermined,Other,colorado
+1149,-71.4989772,41.7523134,1/29/2016,shot,41,F,Phenix,alabama,FALSE,attack,Armed/Undetermined,Other,alabama
+1150,-122.0402399,37.5296593,1/31/2016,shot,62,M,Newark,california,TRUE,attack,Armed/Undetermined,Other,california
+1151,-100.8534779,43.2327824,2/3/2016,shot,22,M,Rosebud,south dakota,FALSE,attack,Armed/Undetermined,Other,south dakota
+1152,-91.9837552,34.9984206,2/7/2016,shot,36,M,Austin,arkansas,FALSE,other,Armed/Undetermined,Other,arkansas
+1153,-106.4850217,31.7618778,2/4/2016,shot,NA,M,El Paso,texas,FALSE,attack,Armed/Undetermined,Other,texas
+1154,-156.7886111,71.2905556,2/10/2016,shot,36,M,Barrow,alaska,FALSE,attack,Armed/Undetermined,Other,alaska
+1155,-155.09,19.7297222,2/9/2016,shot,29,M,Hilo,hawaii,FALSE,attack,Armed/Undetermined,Other,hawaii
+1156,-95.8142885,32.1321367,2/10/2016,shot,56,M,Henderson County,texas,FALSE,attack,Armed/Undetermined,Other,texas
+1157,-82.9987942,39.9611755,2/11/2016,shot,30,M,Columbus,ohio,FALSE,attack,Armed/Undetermined,Other,ohio
+1158,-118.2436849,34.0522342,2/14/2016,shot,29,M,Los Angeles,california,FALSE,other,Armed/Undetermined,Other,california
+1159,-74.0868095,41.7475933,10/24/2015,shot,NA,M,New Paltz,new york,FALSE,attack,Armed/Undetermined,Other,new york
+1160,-117.8678338,33.7455731,2/18/2016,shot,30,M,Santa Ana,california,FALSE,undetermined,Armed/Undetermined,Other,california
+1161,-117.8678338,33.7455731,2/18/2016,shot,35,M,Santa Ana,california,FALSE,undetermined,Armed/Undetermined,Other,california
+1162,-112.0740373,33.4483771,2/21/2016,shot,36,F,Phoenix,arizona,TRUE,attack,Armed/Undetermined,Other,arizona
+1163,-117.9145036,33.8352932,2/20/2016,shot,30,M,Anaheim,california,FALSE,attack,Armed/Undetermined,Other,california
+1164,-104.990251,39.7392358,2/22/2016,shot,NA,M,Denver,colorado,FALSE,attack,Armed/Undetermined,Other,colorado
+1165,-98.3252932,26.2159066,2/22/2016,shot,38,M,Mission,texas,TRUE,undetermined,Armed/Undetermined,Other,texas
+1166,-149.8180556,61.6302778,2/21/2016,shot,38,F,Houston,alaska,FALSE,undetermined,Armed/Undetermined,Other,alaska
+1167,-121.1354141,37.7394537,2/23/2016,shot,36,M,Ripon,california,FALSE,undetermined,Armed/Undetermined,Other,california
+1168,-95.3698028,29.7604267,2/23/2016,shot and Tasered,NA,M,Houston,texas,FALSE,undetermined,Armed/Undetermined,Other,texas
+1169,-103.2310149,44.0805434,2/28/2016,shot,44,M,Rapid City,south dakota,FALSE,undetermined,Armed/Undetermined,Other,south dakota
+1170,-100.7837392,46.8083268,3/6/2016,shot,42,M,Bismarck,north dakota,FALSE,undetermined,Armed/Undetermined,Other,north dakota
+1171,-111.789027,33.3528264,3/3/2016,shot,27,M,Gilbert,arizona,FALSE,undetermined,Armed/Undetermined,Other,arizona
+1172,-93.6910292,34.659264,3/4/2016,shot,66,M,Sims,arkansas,FALSE,undetermined,Armed/Undetermined,Other,arkansas
+1173,-77.6109219,43.16103,3/7/2016,shot,49,M,Rochester,new york,FALSE,attack,Armed/Undetermined,Other,new york
+1174,-84.1177098,37.1895318,3/4/2016,shot,30,M,East Berstadt,kentucky,FALSE,undetermined,Armed/Undetermined,Other,kentucky
+1175,-108.5006904,45.7832856,3/7/2016,shot,42,M,Billings,montana,FALSE,attack,Armed/Undetermined,Other,montana
+1176,-82.4571776,27.950575,3/8/2016,shot,27,M,Tampa,florida,TRUE,other,Armed/Undetermined,Other,florida
